@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Marco Mornati 👋 
 
-<!--
-**mmornati/mmornati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=700&lines=Director+of+Engineering+@+Decathlon+Digital;Building+the+Future+of+Sports+Tech;Open+Source+Maintainer+%26+Architect;Pure+Vibe+Coding+%F0%9F%AA%84" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ Engineering Leadership & Culture
+I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams in building global omnichannel experiences. My leadership philosophy is rooted in **Happiness-Driven Development**, autonomy, and radical technical excellence.
+
+- 🌍 **Scaling Platforms:** Orchestrating high-traffic systems across the global Decathlon ecosystem.
+- 🧘 **Culture First:** Believer in psychological safety as the primary driver for high-performing teams.
+- 🧪 **Vibe Coding:** Experimenting with AI-orchestrated development and "Zero-to-One" prototyping.
+
+---
+
+### 🕒 What I'm doing "Now"
+*Inspired by the [Sivers Now page](https://nownownow.com/about) concept.*
+
+- 🛡️ **Cyber Code Academy:** Building a secure Python sandbox for educational purposes.
+- 💨 **Infrastructure:** Documenting my journey with **Coolify** for self-hosted zero-downtime deployments.
+- 🏠 **Smart Home:** Enhancing my [Hitachi CSNET Home integration](https://github.com/mmornati/home-assistant-csnet-home) for the Home Assistant community.
+- ✍️ **Writing:** Sharing architectural deep-dives on [blog.mornati.net](https://blog.mornati.net).
+
+---
+
+### 🛠️ The Architect's Toolkit
+
+| **Backend & Architecture** | **DevOps & Cloud** | **Automation & Fun** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) | ![HomeAssistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+
+---
+
+### 📊 Vital Signs & Contribution Stream
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmornati&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmornati&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmornati&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 📝 Latest from the Blog
+- 🚀 [Achieving Zero-Downtime Deployments on Coolify](https://blog.mornati.net/achieving-zero-downtime-deployments-on-coolify)
+- 🔒 [Securing Python Code Execution: A Sandbox Journey](https://blog.mornati.net/securing-python-code-execution)
+- 🏗️ [Pure Vibe Coding: The Future of Developer Productivity?](https://blog.mornati.net)
+---
+
+### 🕹️ Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/mmornati/mmornati/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/marcomornati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomornati" height="30" width="40" /></a>
+<a href="https://techhub.social/@mmornati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="mmornati" height="30" width="40" /></a>
+<a href="https://medium.com/@mmornati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mmornati" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <i>“Move People Through the Wonders of Sport” — 🏃‍♂️ Proudly part of Decathlon Digital.</i>
+</p>
