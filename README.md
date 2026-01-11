@@ -37,12 +37,12 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 ### 📊 Vital Signs & Contribution Stream
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmornati&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmornati&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmornati&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Main Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mmornati&theme=tokyonight" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmornati&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats-two-no-longer-available.vercel.app/api/top-langs/?username=mmornati&layout=compact&theme=tokyonight&hide=html,css" width="100%" alt="Top Languages" />
 </p>
 
 ---
