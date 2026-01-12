@@ -19,8 +19,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           
-          # Output configuration
+          # Output configuration - commit directly to repo
           filename: github-metrics.svg
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics"
           config_timezone: Europe/Paris
           
           # Base content
@@ -60,11 +63,3 @@ jobs:
           config_display: large
           config_output: svg
 
-      - name: Commit and push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: /github/workspace
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
