@@ -1,0 +1,70 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          
+          # Output configuration
+          filename: github-metrics.svg
+          config_timezone: Europe/Paris
+          
+          # Base content
+          base: header, activity, community, repositories
+          base_indepth: yes
+          
+          # Repositories traffic (requires repo scope)
+          plugin_traffic: yes
+          
+          # Lines of code changed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          
+          # Most used languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, less, dockerfile, makefile, shell
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          
+          # Coding habits and activity
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+          
+          # Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Theme configuration
+          config_display: large
+          config_output: svg
+
+      - name: Commit and push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: /github/workspace
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
