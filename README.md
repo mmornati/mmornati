@@ -42,7 +42,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-no-longer-available.vercel.app/api/top-langs/?username=mmornati&layout=compact&theme=tokyonight&hide=html,css" width="100%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmornati&layout=compact&theme=tokyonight&hide=html,css" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🕹️ Contribution Snake Game
 <p align="center">
-  <img src="https://github.com/mmornati/mmornati/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mmornati/mmornati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 ### 📫 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/marcomornati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomornati" height="30" width="40" /></a>
-<a href="https://techhub.social/@mmornati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="mmornati" height="30" width="40" /></a>
+<a href="https://techhub.social/@mmornati" target="blank"><img align="center" src="https://cdn.simpleicons.org/mastodon/6364FF" alt="mmornati" height="30" width="40" /></a>
 <a href="https://medium.com/@mmornati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mmornati" height="30" width="40" /></a>
 </p>
 
