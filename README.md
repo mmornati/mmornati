@@ -47,9 +47,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 ---
 
 ### 📝 Latest from the Blog
+<!-- BLOG-POST-LIST:START -->
 - 🚀 [Achieving Zero-Downtime Deployments on Coolify](https://blog.mornati.net/achieving-zero-downtime-deployments-on-coolify)
 - 🔒 [Securing Python Code Execution: A Sandbox Journey](https://blog.mornati.net/securing-python-code-execution)
 - 🏗️ [Pure Vibe Coding: The Future of Developer Productivity?](https://blog.mornati.net)
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ### 🕹️ Contribution Snake Game
