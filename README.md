@@ -48,9 +48,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Achieving Zero-Downtime Deployments on Coolify](https://blog.mornati.net/achieving-zero-downtime-deployments-on-coolify)
-- 🔒 [Securing Python Code Execution: A Sandbox Journey](https://blog.mornati.net/securing-python-code-execution)
-- 🏗️ [Pure Vibe Coding: The Future of Developer Productivity?](https://blog.mornati.net)
+- [Solving the MCP Tool Explosion: A Gateway Approach for AI Coding Agents](https://blog.mornati.net/solving-the-mcp-tool-explosion-a-gateway-approach-for-ai-coding-agents)
+- [Stop Repeating Yourself to AI: How I Built a Local RAG System for Coding Assistants](https://blog.mornati.net/stop-repeating-yourself-to-ai-how-i-built-a-local-rag-system-for-coding-assistants)
+- [Vibe Coding Custom Penetration Tests: When AI Becomes Your Security Partner](https://blog.mornati.net/vibe-coding-custom-penetration-tests-when-ai-becomes-your-security-partner)
+- [Securing Python Code Execution: How We Protected Our Server from Untrusted Code](https://blog.mornati.net/securing-python-code-execution-how-we-protected-our-server-from-untrusted-code)
+- [Behind the Scenes: The Admin Section of Cyber Code Academy](https://blog.mornati.net/behind-the-scenes-the-admin-section-of-cyber-code-academy)
 <!-- BLOG-POST-LIST:END -->
 ---
 
