@@ -68,6 +68,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 <a href="https://www.linkedin.com/in/marcomornati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomornati" height="30" width="40" /></a>
 <a href="https://techhub.social/@mmornati" target="blank"><img align="center" src="https://cdn.simpleicons.org/mastodon/6364FF" alt="mmornati" height="30" width="40" /></a>
 <a href="https://medium.com/@mmornati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mmornati" height="30" width="40" /></a>
+<a href="https://blog.mornati.net" target="blank"><img align="center" src="https://cdn.simpleicons.org/hashnode/2962FF" alt="blog" height="30" width="40" /></a>
 </p>
 
 <p align="center">
