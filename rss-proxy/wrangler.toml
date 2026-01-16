@@ -1,0 +1,6 @@
+name = "rss-proxy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+[vars]
+RSS_URL = "https://blog.mornati.net/rss.xml"
+CACHE_TTL = "3600"  # 1 hour in seconds
