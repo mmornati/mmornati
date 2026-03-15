@@ -48,11 +48,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment](https://blog.mornati.net/what-is-a-developer-when-we-use-coding-agents-my-1-day-bmad-experiment)
 - [Reverse-Engineering Hitachi&#39;s Cloud API with AI: From Browser DevTools to a Full Home Assistant Integration](https://blog.mornati.net/reverse-engineering-hitachis-cloud-api-with-ai-from-browser-devtools-to-a-full-home-assistant-integration-1)
 - [L&#39;IA ne nous remplacera pas…](https://blog.mornati.net/lia-ne-nous-remplacera-pas)
 - [How RAG Can Cut Your AI Coding Costs by 80%](https://blog.mornati.net/how-rag-can-cut-your-ai-coding-costs-by-80)
 - [From Tools to Agents: The Evolution of Nexus-Dev](https://blog.mornati.net/from-tools-to-agents-the-evolution-of-nexus-dev)
-- [Solving the MCP Tool Explosion: A Gateway Approach for AI Coding Agents](https://blog.mornati.net/solving-the-mcp-tool-explosion-a-gateway-approach-for-ai-coding-agents)
 <!-- BLOG-POST-LIST:END -->
 ---
 
