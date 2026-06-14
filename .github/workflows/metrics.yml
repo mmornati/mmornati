@@ -32,10 +32,10 @@ jobs:
           base: header, activity, community, repositories
           base_indepth: yes
           
-          # Repositories traffic (requires repo scope on the token; GITHUB_TOKEN
-          # can only access this repo, so we limit traffic lookup to it)
-          plugin_traffic: yes
-          plugin_traffic_repositories_limit: 1
+          # Repositories traffic (disabled: GITHUB_TOKEN can't access traffic data
+          # for the workflow's repo alone - requires a PAT with 'repo' scope.
+          # Re-enable after adding METRICS_TOKEN secret.)
+          plugin_traffic: no
           
           # Lines of code changed
           plugin_lines: yes
