@@ -32,10 +32,10 @@ jobs:
           base: header, activity, community, repositories
           base_indepth: yes
           
-          # Repositories traffic (requires METRICS_TOKEN PAT with 'repo' scope;
-          # GITHUB_TOKEN alone can't read traffic for the user's repos)
+          # Repositories traffic (requires METRICS_TOKEN - must be a CLASSIC PAT
+          # with 'repo' scope; fine-grained PATs aren't supported for the
+          # GraphQL API used by the metrics action)
           plugin_traffic: yes
-          plugin_traffic_repositories_limit: 4
           
           # Lines of code changed
           plugin_lines: yes
