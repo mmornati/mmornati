@@ -16,6 +16,7 @@ jobs:
       contents: write
       issues: read
       pull-requests: read
+      metadata: read
     steps:
       - uses: mmornati/metrics@master
         with:
