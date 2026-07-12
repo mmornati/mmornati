@@ -70,8 +70,7 @@ But...- [The Future of Agentic Tooling: MCP Servers vs. CLI  A Data-Driven Compa
 ---
 
 ### 🐘 Latest from Mastodon
-<!-- MASTODON-LATEST:START -->
-<!-- MASTODON-LATEST:END -->
+<!-- MASTODON-LATEST:START -->toot<!-- MASTODON-LATEST:END -->
 
 ---
 
