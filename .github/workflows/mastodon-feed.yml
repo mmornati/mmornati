@@ -1,0 +1,25 @@
+name: Latest toot from Mastodon
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-mastodon:
+    name: Update this repo's README with latest Mastodon toot
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in latest toot
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://techhub.social/@mmornati.rss"
+          comment_tag_name: "MASTODON-LATEST"
+          template: "toot"
+          max_post_count: 1
+          commit_message: "chore: update latest toot from Mastodon"

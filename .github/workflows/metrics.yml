@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
+    - cron: "0 5 * * *" # Daily at 05:00 UTC (07:00 Paris)
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +17,7 @@ jobs:
       issues: read
       pull-requests: read
     steps:
-      - uses: mmornati/metrics@master
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           
