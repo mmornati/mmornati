@@ -24,7 +24,7 @@ jobs:
           max_post_count: 1
           commit_message: "chore: update latest toot from Mastodon"
           disable_html_encoding: "true"
-          description_max_length: "350"
+          description_max_length: "400"
           tag_post_pre_newline: "true"
           custom_tags: "description, link"
-          item_exec: "item.description = (item.description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim();"
+          item_exec: "post.description = (post.description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim();"
