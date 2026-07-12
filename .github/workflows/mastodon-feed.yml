@@ -27,3 +27,4 @@ jobs:
           description_max_length: "350"
           tag_post_pre_newline: "true"
           custom_tags: "description, link"
+          item_exec: "item.description = (item.description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim();"

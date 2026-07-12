@@ -23,3 +23,4 @@ jobs:
           description_max_length: "180"
           disable_html_encoding: "true"
           tag_post_pre_newline: "true"
+          item_exec: "item.description = (item.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();"
