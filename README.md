@@ -36,7 +36,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmornati&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=mmornati&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
