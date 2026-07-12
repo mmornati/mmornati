@@ -28,8 +28,9 @@ jobs:
           committer_message: "chore: update metrics"
           config_timezone: Europe/Paris
           
-          # Base content
-          base: header, activity, community, repositories
+          # Base content (activity graph removed — the 3D contribution
+          # graph in profile-3d-contrib is the dedicated activity visual)
+          base: header, community, repositories
           base_indepth: yes
           
           # Repositories traffic (requires METRICS_TOKEN - must be a CLASSIC PAT

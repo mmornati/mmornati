@@ -18,9 +18,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.mornati.net/rss.xml"
-          template: "- [$title]($url) — $description"
+          template: "- [$title]($url) — $description$newline"
           title_max_length: "120"
-          description_max_length: "220"
+          description_max_length: "200"
           disable_html_encoding: "true"
           tag_post_pre_newline: "true"
           item_exec: "post.description = (post.description || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim();"
