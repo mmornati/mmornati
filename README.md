@@ -48,11 +48,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [The AI Orchestrator: Why Intelligent Delegation is the Missing Piece in Your AI Toolchain](https://blog.mornati.net/the-ai-orchestrator-why-intelligent-delegation-is-the-missing-piece-in-your-ai-toolchain)
+- [Lifting the Lid on Copilot&#39;s Black Box: Observability for LLM Code Generation](https://blog.mornati.net/lifting-the-lid-on-copilot-s-black-box-observability-for-llm-code-generation)
+- [Your AI Agent Deserves a Tool Harness, Not a Wild West](https://blog.mornati.net/your-ai-agent-deserves-a-tool-harness-not-a-wild-west)
 - [The Hidden Tax on Every AI Request: How MCP Servers Are Draining Your Token Budget](https://blog.mornati.net/the-hidden-tax-on-every-ai-request-how-mcp-servers-are-draining-your-token-budget)
 - [The Future of Agentic Tooling: MCP Servers vs. CLI  A Data-Driven Comparison](https://blog.mornati.net/the-future-of-agentic-tooling-mcp-servers-vs-cli-a-data-driven-comparison)
-- [Une batterie solaire est-elle rentable en 2026 ?](https://blog.mornati.net/une-batterie-solaire-est-elle-rentable-en-2026)
-- [What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment](https://blog.mornati.net/what-is-a-developer-when-we-use-coding-agents-my-1-day-bmad-experiment)
-- [Reverse-Engineering Hitachi&#39;s Cloud API with AI: From Browser DevTools to a Full Home Assistant Integration](https://blog.mornati.net/reverse-engineering-hitachis-cloud-api-with-ai-from-browser-devtools-to-a-full-home-assistant-integration-1)
 <!-- BLOG-POST-LIST:END -->
 ---
 
