@@ -22,3 +22,4 @@ jobs:
           title_max_length: "120"
           description_max_length: "180"
           disable_html_encoding: "true"
+          tag_post_pre_newline: "true"

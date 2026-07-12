@@ -20,6 +20,10 @@ jobs:
         with:
           feed_list: "https://techhub.social/@mmornati.rss"
           comment_tag_name: "MASTODON-LATEST"
-          template: "toot"
+          template: "💬 $description $newline $newline — [view on Mastodon]($url)"
           max_post_count: 1
           commit_message: "chore: update latest toot from Mastodon"
+          disable_html_encoding: "true"
+          description_max_length: "350"
+          tag_post_pre_newline: "true"
+          custom_tags: "description, link"
