@@ -59,10 +59,9 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-          
-          # Isometric commit calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+
+          # Isometric commit calendar disabled — the 3D contribution
+          # graph in profile-3d-contrib is the dedicated activity visual
           
           # Theme configuration
           config_display: large
