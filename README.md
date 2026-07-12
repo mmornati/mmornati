@@ -73,7 +73,7 @@ But...- [The Future of Agentic Tooling: MCP Servers vs. CLI  A Data-Driven Compa
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 <p>🚀 The LLM Zoo in 2026: How not to go crazy?</p><p>Today, opening your AI toolbox means facing a dizzying abundance: GPT-4.1, Claude 4 Sonnet, DeepSeek-V3, Gemini 2.5... Choosing the right model for the right task has become a software engineering problem in itself.</p><p>❌ The problem: Manual selection is unmanageable. Worse, burning a super-pre... 
+💬 🚀 The LLM Zoo in 2026: How not to go crazy? Today, opening your AI toolbox means facing a dizzying abundance: GPT-4.1, Claude 4 Sonnet, DeepSeek-V3, Gemini 2.5... Choosing the right model for the right task has become a software engineering problem in itself. ❌ The problem: Manual selection is unmanageable. Worse, burning a super-premium, expensive model to format a simple docstring... 
  
  — [view on Mastodon](https://techhub.social/@mmornati/116826962282344932)
 <!-- MASTODON-LATEST:END -->
