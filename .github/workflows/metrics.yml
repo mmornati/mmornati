@@ -43,6 +43,19 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          # The lines plugin occasionally crashes when GitHub's stats API returns a
+          # ghost contributor (author: null) — lowlighter/metrics@3.34 logs
+          # `contributor.author.login` without optional chaining. The delay option
+          # performs a second query if the first one returns empty/zeroed values.
+          plugin_lines_delay: 5
+          # Make plugin errors non-fatal so a single buggy plugin doesn't fail the
+          # whole workflow run. The SVG is still generated; the failing plugin
+          # section will simply be empty/missing.
+          plugins_errors_fatal: no
+          # Gracefully exit if the API quota is too low (avoids partial renders
+          # and noisy failures when the rate limit is hit by sibling workflows).
+          quota_required_graphql: 1000
+          quota_required_rest: 1000
           
           # Most used languages
           plugin_languages: yes
