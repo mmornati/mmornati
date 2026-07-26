@@ -38,19 +38,7 @@ jobs:
           # GraphQL API used by the metrics action)
           plugin_traffic: yes
           
-          # Lines of code changed
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          # The lines plugin occasionally crashes when GitHub's stats API returns a
-          # ghost contributor (author: null) — lowlighter/metrics@3.34 logs
-          # `contributor.author.login` without optional chaining. The delay option
-          # performs a second query if the first one returns empty/zeroed values.
-          plugin_lines_delay: 5
-          # Make plugin errors non-fatal so a single buggy plugin doesn't fail the
-          # whole workflow run. The SVG is still generated; the failing plugin
-          # section will simply be empty/missing.
+          # Plugins errors are non-fatal (avoid entire workflow failure)
           plugins_errors_fatal: no
           # Gracefully exit if the API quota is too low (avoids partial renders
           # and noisy failures when the rate limit is hit by sibling workflows).
@@ -64,14 +52,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          
-          # Coding habits and activity
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
 
           # Isometric commit calendar disabled — the 3D contribution
           # graph in profile-3d-contrib is the dedicated activity visual
