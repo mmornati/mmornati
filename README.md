@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [From Data Leak to Phishing Campaign](https://blog.mornati.net/from-data-leak-to-phishing-campaign) — Introduction In recent months/years, two French organizations suffered significant data breaches: Cultura (September 2024) and the Fédération Française de Tennis (January 2026). Months later, the leak
 - [The AI Orchestrator: Why Intelligent Delegation is the Missing Piece in Your AI Toolchain](https://blog.mornati.net/the-ai-orchestrator-why-intelligent-delegation-is-the-missing-piece-in-your-ai-toolchain) — 1. Introduction: The Age of Model Abundance The AI assistant landscape in mid-2026 is one of abundance. According to McKinsey's State of AI report, 78% of organizations now use AI regularly, and the n
 - [Lifting the Lid on Copilot's Black Box: Observability for LLM Code Generation](https://blog.mornati.net/lifting-the-lid-on-copilot-s-black-box-observability-for-llm-code-generation) — Introduction: The Black Box of AI Code Generation When you ask GitHub Copilot to write a function, refactor a module, or explain a complex piece of code, the response you get is the output of a probab
 - [Your AI Agent Deserves a Tool Harness, Not a Wild West](https://blog.mornati.net/your-ai-agent-deserves-a-tool-harness-not-a-wild-west) — We started the same way everyone does: give the LLM access to everything and hope it figures it out. Connect the GitHub MCP, the Jira MCP, the internal product API MCP, throw in a database schema or t
 - [The Hidden Tax on Every AI Request: How MCP Servers Are Draining Your Token Budget](https://blog.mornati.net/the-hidden-tax-on-every-ai-request-how-mcp-servers-are-draining-your-token-budget) — Last month, I published a comparison: MCP Servers vs. CLI. Single server (GitHub), controlled test, clear conclusion: Native MCP wastes 99.7% on schema tax in typical sessions. But that's a lab test.
-- [The Future of Agentic Tooling: MCP Servers vs. CLI  A Data-Driven Comparison](https://blog.mornati.net/the-future-of-agentic-tooling-mcp-servers-vs-cli-a-data-driven-comparison) — As Large Language Models (LLMs) evolve into autonomous coding agents, one of the most consequential architectural decisions is deceptively simple: how should an AI agent talk to external services? Tra
 
 <!-- BLOG-POST-LIST:END -->
 
