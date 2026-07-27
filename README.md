@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 🚀 The LLM Zoo in 2026: How not to go crazy? Today, opening your AI toolbox means facing a dizzying abundance: GPT-4.1, Claude 4 Sonnet, DeepSeek-V3, Gemini 2.5... Choosing the right model for the right task has become a software engineering problem in itself. ❌ The problem: Manual selection is unmanageable. Worse, burning a super-premium, expensive model to format a simple docstring... 
+💬 I traced two phishing emails I received back to the Cultura (2024) and FFT (2026) data breaches. Both were sent through compromised SendGrid accounts: SPF/DKIM/DMARC all pass, making them look legitimate. The full header analysis and attack chain: <span... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/116826962282344932)
+ — [view on Mastodon](https://techhub.social/@mmornati/116988353851011976)
 <!-- MASTODON-LATEST:END -->
 
 ---
