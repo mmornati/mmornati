@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 I traced two phishing emails I received back to the Cultura (2024) and FFT (2026) data breaches. Both were sent through compromised SendGrid accounts: SPF/DKIM/DMARC all pass, making them look legitimate. The full header analysis and attack chain: <span... 
+💬 Migrating 354GB from Google Photos to Proton was… an adventure. Key lesson: Proton Drive and Proton Photos are NOT the same API. Uploading to Drive doesn&#39;t put photos in your timeline. Two completely different systems. I built gphoto2proton (with 2 approaches): 1️⃣ Go binary — streaming from .tgz, no disk extraction, cross-platform (macOS/Linux/Windows). Photos land in Dri... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/116988353851011976)
+ — [view on Mastodon](https://techhub.social/@mmornati/117021599568958208)
 <!-- MASTODON-LATEST:END -->
 
 ---
