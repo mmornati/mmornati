@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Migrating My Blog from Hashnode to Self-Hosted Hugo on Coolify](https://blog.mornati.net/migrating-from-hashnode-to-hugo-with-coolify/) — 
+- [Monitoring Your Water Softener Salt Level with Home Assistant](https://blog.mornati.net/monitoring-water-softener-salt-level-with-home-assistant/) — 
+- [Home Assistant: Smart Cover Control Based on Temperature - 3 Years Later](https://blog.mornati.net/homeassistant-close-cover-to-control-the-home-temperature-v2/) — 
+- [Two Years of Solar: The Real Numbers, the Real ROI](https://blog.mornati.net/two-years-of-solar-the-real-numbers-and-roi/) — 12 panels, 3 micro-inverters, no battery — here is what the first 24 months actually produced, self-consumed, exported, and earned.
 - [How I built gphoto2proton to migrate 354GB of Google Photos to Proton](https://blog.mornati.net/how-i-built-gphoto2proton-to-migrate-354gb-of-google-photos-to-proton/) — 
-- [From Data Leak to Phishing Campaign](https://blog.mornati.net/from-data-leak-to-phishing-campaign/) — 
-- [The AI Orchestrator: Why Intelligent Delegation is the Missing Piece in Your AI Toolchain](https://blog.mornati.net/the-ai-orchestrator-why-intelligent-delegation-is-the-missing-piece-in-your-ai-toolchain/) — 
-- [Lifting the Lid on Copilot's Black Box: Observability for LLM Code Generation](https://blog.mornati.net/lifting-the-lid-on-copilot-s-black-box-observability-for-llm-code-generation/) — 
-- [Your AI Agent Deserves a Tool Harness, Not a Wild West](https://blog.mornati.net/your-ai-agent-deserves-a-tool-harness-not-a-wild-west/) — 
 
 <!-- BLOG-POST-LIST:END -->
 
