@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 Migrating 354GB from Google Photos to Proton was… an adventure. Key lesson: Proton Drive and Proton Photos are NOT the same API. Uploading to Drive doesn&#39;t put photos in your timeline. Two completely different systems. I built gphoto2proton (with 2 approaches): 1️⃣ Go binary — streaming from .tgz, no disk extraction, cross-platform (macOS/Linux/Windows). Photos land in Dri... 
+💬 J&#39;ai migré tout mon blog de Hashnode (et décrit la procédure ici) https:// blog.mornati.net/migrating-fro m-hashnode-to-hugo-with-coolify/ Pour plusieurs rais... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117021599568958208)
+ — [view on Mastodon](https://techhub.social/@mmornati/117106928562743858)
 <!-- MASTODON-LATEST:END -->
 
 ---
