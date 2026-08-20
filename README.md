@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Arlo Camera Battery Life at the WiFi Layer](https://blog.mornati.net/fixing-arlo-camera-battery-life-at-the-wifi-layer/) — 
 - [Integrating Your Self-Hosted Arlo Stack with Home Assistant: Sensors, Automations and the Lovelace Dashboard](https://blog.mornati.net/integrating-self-hosted-arlo-with-home-assistant/) — 
 - [Self-Hosting Arlo on Your Own Server: Stack, Patches and Lessons Learned](https://blog.mornati.net/self-hosting-arlo-cam-api-patches-and-improvements/) — 
 - [Replacing the Arlo Base Station with a Netgear Orbi Router](https://blog.mornati.net/replacing-arlo-base-station-with-a-netgear-orbi-router/) — 
 - [Migrating My Blog from Hashnode to Self-Hosted Hugo on Coolify](https://blog.mornati.net/migrating-from-hashnode-to-hugo-with-coolify/) — 
-- [Monitoring Your Water Softener Salt Level with Home Assistant](https://blog.mornati.net/monitoring-water-softener-salt-level-with-home-assistant/) — 
 
 <!-- BLOG-POST-LIST:END -->
 
