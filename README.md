@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Your MCP Input Context: Which IDEs Lazy-Load and How LeanProxy Keeps It Flat](https://blog.mornati.net/your-mcp-input-context-which-ides-lazy-load-and-how-leanproxy-keeps-it-flat/) — 
 - [Arlo Base Station Deep Dive: Battery Drain, Sniffed Data, and Router Config](https://blog.mornati.net/arlo-base-station-deep-dive-battery-sniffing-analysis/) — 
 - [Fixing Arlo Camera Battery Life at the WiFi Layer](https://blog.mornati.net/fixing-arlo-camera-battery-life-at-the-wifi-layer/) — 
 - [Integrating Your Self-Hosted Arlo Stack with Home Assistant: Sensors, Automations and the Lovelace Dashboard](https://blog.mornati.net/integrating-self-hosted-arlo-with-home-assistant/) — 
 - [Self-Hosting Arlo on Your Own Server: Stack, Patches and Lessons Learned](https://blog.mornati.net/self-hosting-arlo-cam-api-patches-and-improvements/) — 
-- [Replacing the Arlo Base Station with a Netgear Orbi Router](https://blog.mornati.net/replacing-arlo-base-station-with-a-netgear-orbi-router/) — 
 
 <!-- BLOG-POST-LIST:END -->
 
