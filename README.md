@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 J&#39;ai migré tout mon blog de Hashnode (et décrit la procédure ici) https:// blog.mornati.net/migrating-fro m-hashnode-to-hugo-with-coolify/ Pour plusieurs rais... 
+💬 Moved my 354 GB from Google Photos to Proton Photos a few weeks ago - but I lost the one thing I took for granted: search. Proton Photos is end-to-end encrypted. Proton literally cannot see your photos, so it cannot index them. Any decent search engine has to run on your own hardware. That&#39;s what I built: proton-faces. 🎬 Demo: <a href="https://res.cloudinary.com/blog-mornati-net... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117106928562743858)
+ — [view on Mastodon](https://techhub.social/@mmornati/117185758071052913)
 <!-- MASTODON-LATEST:END -->
 
 ---
