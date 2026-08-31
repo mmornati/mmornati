@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Searching Proton Photos like it's Google Photos: how I built proton-faces](https://blog.mornati.net/proton-faces-search-proton-photos/) — E2E encryption means Proton can never index your photos. So I built a two-container search engine that does it locally, on my own hardware, without ever writing back to Proton.
 - [The Sump Pump in the Spotlight: Monitoring Hidden Infrastructure with Home Assistant](https://blog.mornati.net/monitoring-the-sump-pump-with-home-assistant/) — A Zigbee smart plug, nine automations, and one invisible pump that saves the house from flooding - the &ldquo;invisible device&rdquo; pattern, monitored with Home Assistant.
 - [The Smart Water Heater, 4 Years Later: Solar + Off-Peak Orchestration (v2)](https://blog.mornati.net/smart-water-heater-orchestration-solar-off-peak-v2/) — Two water heaters on a Heures Creuses tariff, 12 panels and no battery - the v2 of my water heater orchestration, with real YAML and real numbers.
 - [Your MCP Input Context: Which IDEs Lazy-Load and How LeanProxy Keeps It Flat](https://blog.mornati.net/your-mcp-input-context-which-ides-lazy-load-and-how-leanproxy-keeps-it-flat/) — 
 - [Arlo Base Station Deep Dive: Battery Drain, Sniffed Data, and Router Config](https://blog.mornati.net/arlo-base-station-deep-dive-battery-sniffing-analysis/) — 
-- [Fixing Arlo Camera Battery Life at the WiFi Layer](https://blog.mornati.net/fixing-arlo-camera-battery-life-at-the-wifi-layer/) — 
 
 <!-- BLOG-POST-LIST:END -->
 
