@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 Moved my 354 GB from Google Photos to Proton Photos a few weeks ago - but I lost the one thing I took for granted: search. Proton Photos is end-to-end encrypted. Proton literally cannot see your photos, so it cannot index them. Any decent search engine has to run on your own hardware. That&#39;s what I built: proton-faces. 🎬 Demo: <a href="https://res.cloudinary.com/blog-mornati-net... 
+💬 RE: https:// techhub.social/@mmornati/11718 5758071052913 I improved a little bit the first of the application (and I&#39;ve some other things in mind). I... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117185758071052913)
+ — [view on Mastodon](https://techhub.social/@mmornati/117218130667352931)
 <!-- MASTODON-LATEST:END -->
 
 ---
