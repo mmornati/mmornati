@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 RE: https:// techhub.social/@mmornati/11718 5758071052913 I worked to upgrade this projet after this first post. What was a simple test/poc to see what I can d... 
+💬 🏁 15h26 pour 109,7 km et +1992 m : j&#39;ai terminé l&#39;Ultra 110 km Trail Côte d&#39;Opale, préparé avec des agents IA connectés à Garmin. J&#39;ai créé ai-running-coach, open-source et 100 % en français : 4 agents (coach, course-strategist, medical, nutritionist) + 8 skills, installable en une commande. Résultat : 74,8 % du temps en Z1+Z2, toutes les barrières passées avec marge... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117256645133878291)
+ — [view on Mastodon](https://techhub.social/@mmornati/117298166319275029)
 <!-- MASTODON-LATEST:END -->
 
 ---
