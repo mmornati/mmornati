@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 🏁 15h26 pour 109,7 km et +1992 m : j&#39;ai terminé l&#39;Ultra 110 km Trail Côte d&#39;Opale, préparé avec des agents IA connectés à Garmin. J&#39;ai créé ai-running-coach, open-source et 100 % en français : 4 agents (coach, course-strategist, medical, nutritionist) + 8 skills, installable en une commande. Résultat : 74,8 % du temps en Z1+Z2, toutes les barrières passées avec marge... 
+💬 New on the blog: Jev vs Laya on Prompt forward 🧭 My old model router (ai-dispatch) had an LLM read a long prompt and pick an agent, and each agent had a fixed model. It knew nothing about cost or confidence, and it never learned. So I rebuilt it around a new kind of model: &quot;System One&quot; decision models. They answer typed questions with calibrated probabilities instead of wr... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117298166319275029)
+ — [view on Mastodon](https://techhub.social/@mmornati/117321990431088238)
 <!-- MASTODON-LATEST:END -->
 
 ---
