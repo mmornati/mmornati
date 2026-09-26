@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 My home automations know thresholds, not context. Sump pump runs 2 min after a rainy night → alert. Long shower → &quot;possible leak&quot;. Washer pauses to soak → &quot;finished&quot;, 20 min too early. So I gave the &quot;is this normal?&quot; question to Jev, TypeSafe&#39;s decision model. You send it a few lines of facts and a typed question, and it answers with a cal... 
+💬 RE: https:// techhub.social/@mmornati/11733 3679006590167 One of the thing I added (sorry the screenshot is in French) is quite cool. Sometimes, as I&#39;... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117333679006590167)
+ — [view on Mastodon](https://techhub.social/@mmornati/117335871964926845)
 <!-- MASTODON-LATEST:END -->
 
 ---
