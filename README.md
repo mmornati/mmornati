@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 New on the blog: Jev vs Laya on Prompt forward 🧭 My old model router (ai-dispatch) had an LLM read a long prompt and pick an agent, and each agent had a fixed model. It knew nothing about cost or confidence, and it never learned. So I rebuilt it around a new kind of model: &quot;System One&quot; decision models. They answer typed questions with calibrated probabilities instead of wr... 
+💬 My home automations know thresholds, not context. Sump pump runs 2 min after a rainy night → alert. Long shower → &quot;possible leak&quot;. Washer pauses to soak → &quot;finished&quot;, 20 min too early. So I gave the &quot;is this normal?&quot; question to Jev, TypeSafe&#39;s decision model. You send it a few lines of facts and a typed question, and it answers with a cal... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117321990431088238)
+ — [view on Mastodon](https://techhub.social/@mmornati/117333679006590167)
 <!-- MASTODON-LATEST:END -->
 
 ---
