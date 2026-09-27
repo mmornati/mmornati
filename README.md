@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 RE: https:// techhub.social/@mmornati/11733 3679006590167 One of the thing I added (sorry the screenshot is in French) is quite cool. Sometimes, as I&#39;... 
+💬 Follow-up to my Jev × Home Assistant post: two comments on the last one deserved a real answer, not just a reply. @ oneclickclaw_io asked why not feed Jev&#39;s context to a small local model instead. Fair point - my prompts really were just snapshots (humidi... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117335871964926845)
+ — [view on Mastodon](https://techhub.social/@mmornati/117338515337951727)
 <!-- MASTODON-LATEST:END -->
 
 ---
