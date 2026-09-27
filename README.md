@@ -60,11 +60,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 📝 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Jev in Home Assistant, Take Two: History, Feedback, and Why I Didn't Go Local](https://blog.mornati.net/jev-home-assistant-history-feedback-and-the-local-model-question/) — The fix for &ldquo;Jev has no memory&rdquo; was never a different model. It was giving Jev a memory. Here is the history script, the feedback loop, and what the live scoreboard already disagrees about...
 - [Jev in Home Assistant: Letting a Decision Model Make the Judgement Calls](https://blog.mornati.net/jev-home-assistant-letting-a-decision-model-judge-my-automations/) — My automations are good at thresholds and bad at context. Jev answers typed questions with a calibrated probability, for about two thousandths of a cent each. Here is how I wired it into Home Assistan...
 - [system-one-router: Letting a "System One" Model Pick the Right LLM for Every Prompt](https://blog.mornati.net/system-one-router-picking-the-right-llm-for-every-prompt/) — My first model router let an LLM read a prompt file and pick an agent. This one asks a &ldquo;System One&rdquo; decision model four typed questions, scores the models with plain arithmetic, and publis...
 - [Preparing an Ultra-Trail with ai-running-coach: From Planning to the Finish Line](https://blog.mornati.net/preparing-an-ultra-trail-with-ai-running-coach/) — 
 - [Searching Proton Photos like it's Google Photos: how I built proton-faces](https://blog.mornati.net/proton-faces-search-proton-photos/) — E2E encryption means Proton can never index your photos. So I built a two-container search engine that does it locally, on my own hardware, without ever writing back to Proton.
-- [The Sump Pump in the Spotlight: Monitoring Hidden Infrastructure with Home Assistant](https://blog.mornati.net/monitoring-the-sump-pump-with-home-assistant/) — A Zigbee smart plug, nine automations, and one invisible pump that saves the house from flooding - the &ldquo;invisible device&rdquo; pattern, monitored with Home Assistant.
 
 <!-- BLOG-POST-LIST:END -->
 
