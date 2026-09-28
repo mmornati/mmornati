@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 Follow-up to my Jev × Home Assistant post: two comments on the last one deserved a real answer, not just a reply. @ oneclickclaw_io asked why not feed Jev&#39;s context to a small local model instead. Fair point - my prompts really were just snapshots (humidi... 
+💬 🏃‍♂️ Petite mise à jour de mon coach IA… qui a bien grandi en 9 jours ! Il y a un peu plus d&#39;une semaine, je vous racontais comment j&#39;avais préparé l&#39;Ultra 110 km du Trail Côte d&#39;Opale avec ai-running-coach, mon projet open source d&#39;agents IA connectés à Garmin. Depuis, le projet a reçu plus de 120 pull requests 🤯. Voici les grandes nouveautés : 📊 Un tablea... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117338515337951727)
+ — [view on Mastodon](https://techhub.social/@mmornati/117347053918052803)
 <!-- MASTODON-LATEST:END -->
 
 ---
