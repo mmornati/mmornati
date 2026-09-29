@@ -72,9 +72,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ### 🐘 Latest from Mastodon
 <!-- MASTODON-LATEST:START -->
-💬 🏃‍♂️ Petite mise à jour de mon coach IA… qui a bien grandi en 9 jours ! Il y a un peu plus d&#39;une semaine, je vous racontais comment j&#39;avais préparé l&#39;Ultra 110 km du Trail Côte d&#39;Opale avec ai-running-coach, mon projet open source d&#39;agents IA connectés à Garmin. Depuis, le projet a reçu plus de 120 pull requests 🤯. Voici les grandes nouveautés : 📊 Un tablea... 
+💬 With Opus 5.5 nothing is impossible. It is doing anything in a very professional and clean way! A little full JS video to present the ai-running-coach project I shared few days ago https:// mmornati.github.io/... 
  
- — [view on Mastodon](https://techhub.social/@mmornati/117347053918052803)
+ — [view on Mastodon](https://techhub.social/@mmornati/117352748046462856)
 <!-- MASTODON-LATEST:END -->
 
 ---
