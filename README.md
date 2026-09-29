@@ -48,24 +48,27 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ---
 
-### 📝 Latest from the Blog
-<!-- BLOG-POST-LIST:START -->
-- [ai-running-coach, Nine Days Later: a Dashboard, 20+ Metrics and a Coach in My Pocket](https://blog.mornati.net/ai-running-coach-whats-new-dashboard-metrics-mobile-coach/) — A dashboard, a pile of new metrics, guardrails that can say no, and a coach that lives on a Linux box at home and answers me from my phone. Here is what changed in ai-running-coach since the ultra, an...
-- [Jev in Home Assistant, Take Two: History, Feedback, and Why I Didn't Go Local](https://blog.mornati.net/jev-home-assistant-history-feedback-and-the-local-model-question/) — The fix for &ldquo;Jev has no memory&rdquo; was never a different model. It was giving Jev a memory. Here is the history script, the feedback loop, and what the live scoreboard already disagrees about...
-- [Jev in Home Assistant: Letting a Decision Model Make the Judgement Calls](https://blog.mornati.net/jev-home-assistant-letting-a-decision-model-judge-my-automations/) — My automations are good at thresholds and bad at context. Jev answers typed questions with a calibrated probability, for about two thousandths of a cent each. Here is how I wired it into Home Assistan...
-- [system-one-router: Letting a "System One" Model Pick the Right LLM for Every Prompt](https://blog.mornati.net/system-one-router-picking-the-right-llm-for-every-prompt/) — My first model router let an LLM read a prompt file and pick an agent. This one asks a &ldquo;System One&rdquo; decision model four typed questions, scores the models with plain arithmetic, and publis...
-- [Preparing an Ultra-Trail with ai-running-coach: From Planning to the Finish Line](https://blog.mornati.net/preparing-an-ultra-trail-with-ai-running-coach/) — 
+### 🌿 git log --graph
+<sub>Blog posts land on <code>main</code>, toots from <a href="https://techhub.social/@mmornati">Mastodon</a> branch off and merge back.</sub>
 
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🐘 Latest from Mastodon
-<!-- MASTODON-LATEST:START -->
-💬 With Opus 5.5 nothing is impossible. It is doing anything in a very professional and clean way! A little full JS video to present the ai-running-coach project I shared few days ago https:// mmornati.github.io/... 
- 
- — [view on Mastodon](https://techhub.social/@mmornati/117352748046462856)
-<!-- MASTODON-LATEST:END -->
+<!-- FEED:START -->
+<pre>
+| * <b>a161a86</b> 2026-09-29 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117352748046462856">With Opus 5.5 nothing is impossible. It is doing anything in a very…</a>
+| * <b>b60cc17</b> 2026-09-28 (toot) <a href="https://techhub.social/@mmornati/117347053918052803">🏃‍♂️ Petite mise à jour de mon coach IA… qui a bien grandi en 9 jours !…</a>
+|/
+* <b>45772d2</b> 2026-09-28 (blog) <a href="https://blog.mornati.net/ai-running-coach-whats-new-dashboard-metrics-mobile-coach/">ai-running-coach, Nine Days Later: a Dashboard, 20+ Metrics and a Coach…</a>
+|\
+| * <b>0401b5d</b> 2026-09-26 (toot) <a href="https://techhub.social/@mmornati/117338515337951727">Follow-up to my Jev × Home Assistant post: two comments on the last one…</a>
+|/
+* <b>cf6b9ef</b> 2026-09-26 (blog) <a href="https://blog.mornati.net/jev-home-assistant-history-feedback-and-the-local-model-question/">Jev in Home Assistant, Take Two: History, Feedback, and Why I Didn't Go…</a>
+|\
+| * <b>919e924</b> 2026-09-26 (toot) <a href="https://techhub.social/@mmornati/117335871964926845">One of the thing I added (sorry the screenshot is in French) is quite…</a>
+| * <b>701f7bd</b> 2026-09-25 (toot) <a href="https://techhub.social/@mmornati/117333679006590167">My home automations know thresholds, not context. Sump pump runs 2 min…</a>
+|/
+* <b>54d7466</b> 2026-09-25 (blog) <a href="https://blog.mornati.net/jev-home-assistant-letting-a-decision-model-judge-my-automations/">Jev in Home Assistant: Letting a Decision Model Make the Judgement Calls</a>
+* <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
+</pre>
+<!-- FEED:END -->
 
 ---
 
