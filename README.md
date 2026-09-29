@@ -1,7 +1,11 @@
 # Hi, I'm Marco Mornati 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=700&lines=Director+of+Engineering+@+Decathlon+Digital;Building+the+Future+of+Sports+Tech;Open+Source+Maintainer+%26+Architect;Pure+Vibe+Coding+%F0%9F%AA%84" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/boot/boot-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/boot/boot-light.svg" />
+    <img src="./assets/boot/boot-dark.svg" alt="A terminal running neofetch for Marco Mornati: Director of Engineering at Decathlon Digital, with live GitHub stats" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -25,27 +29,13 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 ---
 
-### 📊 Vital Signs
+### ⛰️ Commit Ultra-Trail
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mmornati/mmornati/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
----
-
-### 🛸 3D Contribution Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mmornati&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mmornati/mmornati/output/streak.svg" alt="GitHub Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/trail/trail-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/trail/trail-light.svg" />
+    <img src="./assets/trail/trail-dark.svg" alt="My last year of GitHub contributions drawn as a trail elevation profile, with blog posts as aid stations" width="100%" />
+  </picture>
 </p>
 
 ---
