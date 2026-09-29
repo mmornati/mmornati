@@ -1,0 +1,43 @@
+name: Marco OS profile cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 03:30 UTC = 05:30 Paris
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Draw the trail
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 scripts/trail.py --out assets/trail
+      - name: Boot screen
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 scripts/boot.py --out assets/boot
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/trail assets/boot
+          git pull --rebase --autostash
+          if git commit -m "chore: update profile cards"; then
+            git push
+          fi
