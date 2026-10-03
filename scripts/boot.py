@@ -9,13 +9,12 @@ Usage:
   GITHUB_TOKEN=... python3 scripts/boot.py [--user mmornati] [--out assets/boot]
 """
 import argparse
-import json
 import os
-import urllib.request
 from datetime import date, datetime, timezone
 from html import escape
 
-from trail import FONT, GRAPHQL, streaks
+from gh import fetch_profile, fetch_repos, gql
+from trail import FONT, streaks
 
 # Static identity lines. Everything else comes from the API.
 HOST = "marco@mornati.net"
@@ -55,35 +54,9 @@ INFO_X = 330       # left edge of the key/value column
 TYPE_STEP = 0.14   # seconds between lines
 
 
-def gql(query, token, variables=None):
-    body = json.dumps({"query": query, "variables": variables or {}}).encode()
-    req = urllib.request.Request(GRAPHQL, data=body, headers={
-        "Authorization": f"bearer {token}", "Content-Type": "application/json",
-        "User-Agent": "marco-os-boot"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.load(r)
-    if "errors" in data:
-        raise RuntimeError(data["errors"])
-    return data["data"]
-
-
 def fetch(user, token):
-    profile = gql("""query($login:String!){user(login:$login){createdAt followers{totalCount}
-      contributionsCollection{contributionCalendar{totalContributions
-        weeks{contributionDays{date contributionCount}}}}}}""", token, {"login": user})["user"]
-
-    repos, cursor = [], None
-    while True:
-        page = gql("""query($login:String!,$after:String){user(login:$login){
-          repositories(ownerAffiliations:OWNER,isFork:false,first:100,after:$after){
-            pageInfo{hasNextPage endCursor}
-            nodes{name stargazerCount pushedAt isPrivate isArchived
-              languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}""",
-                   token, {"login": user, "after": cursor})["user"]["repositories"]
-        repos += page["nodes"]
-        if not page["pageInfo"]["hasNextPage"]:
-            break
-        cursor = page["pageInfo"]["endCursor"]
+    profile = fetch_profile(user, token)
+    repos = fetch_repos(user, token)
 
     # All-time contributions: one aliased field per year (the API caps a range at one year).
     since = int(profile["createdAt"][:4])

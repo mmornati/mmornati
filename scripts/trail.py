@@ -47,6 +47,15 @@ CHART_BOTTOM = 280            # baseline of the ridge area
 STATS_Y = 352                 # stats strip baseline
 LABELLED = 5                  # aid stations that get a caption, newest first, spread out
 LABEL_SPACING = 150           # min horizontal distance between captioned stations
+REST_DAYS = 7                 # this many days without contributions and the runner camps
+FAST_STREAK = 14              # a streak this long makes the runner speed up
+
+SEASONS = {12: "winter", 1: "winter", 2: "winter", 3: "spring", 4: "spring", 5: "spring",
+           6: "summer", 7: "summer", 8: "summer", 9: "autumn", 10: "autumn", 11: "autumn"}
+# Tint of the distant ranges, and falling particles: (dark colour, light colour, count).
+SEASON_RANGE = {"winter": "#a5c8ff", "spring": "#3fb950", "autumn": "#e8590c"}
+SEASON_FALL = {"winter": ("#ffffff", "#8fa8cc", 40), "spring": ("#f9a8d4", "#db61a2", 14),
+               "autumn": ("#ff9a3c", "#d9480f", 18)}
 
 
 def fetch_calendar(user, token):
@@ -123,7 +132,7 @@ def place_labels(stations, reserved, char=6.2):
     return placed
 
 
-def render(weeks, posts, theme_name):
+def render(weeks, posts, theme_name, season=None, mode=None):
     c = THEMES[theme_name]
     week_totals = [sum(n for _, n in w) for w in weeks]
     week_starts = [w[0][0] for w in weeks]
@@ -170,6 +179,14 @@ def render(weeks, posts, theme_name):
     active = sum(1 for _, v in days if v)
     longest, current = streaks(days)
 
+    season = season or SEASONS[date.today().month]
+    last_active = max((k for k, (_, v) in enumerate(days) if v), default=0)
+    idle = len(days) - 1 - last_active
+    mode = mode or ("rest" if idle >= REST_DAYS else "fast" if current >= FAST_STREAK else "run")
+    status = {"rest": f"resting at camp · last contribution {idle} days ago",
+              "fast": f"on fire · {current}-day streak",
+              "run": "every contribution is a metre of climbing"}[mode]
+
     out = []
     a = out.append
     a(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" '
@@ -213,7 +230,8 @@ def render(weeks, posts, theme_name):
         for x in range(0, iw + 81, 40):
             y = CHART_BOTTOM - 36 - k * 18 - abs(math.sin(x / (90 + k * 37) + k)) * (58 - k * 12)
             d += f" L{L - 40 + x},{y:.1f}"
-        a(f'<path d="{d} L{W},{CHART_BOTTOM} Z" fill="{c["range"]}" opacity="{0.05 + k * 0.03:.2f}"/>')
+        a(f'<path d="{d} L{W},{CHART_BOTTOM} Z" fill="{SEASON_RANGE.get(season, c["range"])}" '
+          f'opacity="{0.05 + k * 0.03:.2f}"/>')
 
     for f in (0.25, 0.5, 0.75, 1):
         y = CHART_BOTTOM - f * ih * 0.92
@@ -222,7 +240,7 @@ def render(weeks, posts, theme_name):
     # Header.
     a(f'<text x="{L}" y="34" fill="{c["fg"]}" font-size="16" font-weight="800" letter-spacing="1">'
       f'MORNATI COMMIT ULTRA</text>')
-    a(f'<text x="{L}" y="52" fill="{c["muted"]}" font-size="11">{n} weeks · every contribution is a metre of climbing</text>')
+    a(f'<text x="{L}" y="52" fill="{c["muted"]}" font-size="11">{n} weeks · {status}</text>')
     a(f'<text x="{W - R}" y="34" fill="{c["ridge"]}" font-size="16" font-weight="800" text-anchor="end">'
       f'D+ {total:,} m</text>')
 
@@ -263,14 +281,57 @@ def render(weeks, posts, theme_name):
             a(f'<rect x="{fx - 2 + k * 5}" y="{CHART_BOTTOM - 36 + j * 5}" width="5" height="5" fill="{fill}"/>')
     a(f'<line x1="{fx - 2}" x2="{fx - 2}" y1="{CHART_BOTTOM - 36}" y2="{CHART_BOTTOM}" stroke="{c["fg"]}"/>')
 
-    # Runner with head torch, looping along the ridge.
-    a('<g>'
-      f'<circle r="28" fill="url(#glow)"/>'
-      f'<path d="M4,-2 L34,-13 L34,9 Z" fill="url(#beam)"/>'
-      f'<circle r="5" fill="{c["runner"]}" stroke="{c["bg"]}" stroke-width="2"/>'
-      '<animateMotion dur="16s" repeatCount="indefinite" rotate="auto" calcMode="linear">'
-      '<mpath href="#ridge" xlink:href="#ridge" xmlns:xlink="http://www.w3.org/1999/xlink"/></animateMotion>'
-      '</g>')
+    # Snow caps on the highest peaks in winter.
+    if season == "winter":
+        peaks = [i for i in range(1, n - 1) if pts[i][1] < pts[i - 1][1] and pts[i][1] <= pts[i + 1][1]]
+        for i in sorted(peaks, key=lambda i: pts[i][1])[:5]:
+            x, y = pts[i]
+            a(f'<path d="M{x - 13:.1f},{y + 9:.1f} Q{x:.1f},{y - 5:.1f} {x + 13:.1f},{y + 9:.1f} '
+              f'L{x + 6:.1f},{y + 5:.1f} L{x:.1f},{y + 10:.1f} L{x - 6:.1f},{y + 5:.1f} Z" fill="#ffffff" '
+              f'stroke="{c["ridge"]}" stroke-width=".6" stroke-opacity=".4"/>')
+
+    # Falling snow, petals or leaves.
+    if season in SEASON_FALL:
+        dark_col, light_col, count = SEASON_FALL[season]
+        col = dark_col if c["stars"] else light_col
+        for i in range(count):
+            x = (i * 151 + 37) % W
+            dur = 6 + i % 5
+            shape = (f'<circle r="{1.8 if i % 3 else 2.4}"' if season == "winter"
+                     else f'<ellipse rx="3.2" ry="1.6"')
+            begin = f"-{(i * 0.7) % dur:.1f}s"
+            a(f'<g transform="translate({x},0)"><g>{shape} fill="{col}" opacity=".8"/>'
+              f'<animateTransform attributeName="transform" type="translate" '
+              f'values="0,-10;{14 if i % 2 else -14},{CHART_BOTTOM / 2:.0f};0,{CHART_BOTTOM}" '
+              f'dur="{dur}s" begin="{begin}" repeatCount="indefinite"/>'
+              f'<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" '
+              f'dur="{dur}s" begin="{begin}" repeatCount="indefinite"/></g></g>')
+
+    xlink = '<mpath href="#ridge" xlink:href="#ridge" xmlns:xlink="http://www.w3.org/1999/xlink"/>'
+    if mode == "rest":
+        # Camp by the last active week: tent, campfire, sleeping runner.
+        x, y = pts[min(n - 1, last_active // 7)]
+        x = min(x, L + iw - 60)
+        a(f'<path d="M{x + 14:.1f},{y:.1f} l18,-26 l18,26 z" fill="{c["aid"]}"/>'
+          f'<path d="M{x + 32:.1f},{y - 26:.1f} l-6,26 h12 z" fill="{c["bg"]}" opacity=".55"/>')
+        a(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="26" fill="url(#glow)"/>'
+          f'<path d="M{x - 18:.1f},{y:.1f} q4,-14 8,0 z" fill="{c["flag"]}">'
+          f'<animate attributeName="d" values="M{x - 18:.1f},{y:.1f} q4,-14 8,0 z;M{x - 18:.1f},{y:.1f} q4,-20 8,0 z;'
+          f'M{x - 18:.1f},{y:.1f} q4,-14 8,0 z" dur=".8s" repeatCount="indefinite"/></path>')
+        a(f'<circle cx="{x:.1f}" cy="{y - 2:.1f}" r="5" fill="{c["runner"]}" stroke="{c["bg"]}" stroke-width="2"/>')
+        for k, (dx, dy, fs) in enumerate(((6, -14, 10), (13, -24, 13))):
+            a(f'<text x="{x + dx:.1f}" y="{y + dy:.1f}" fill="{c["muted"]}" font-size="{fs}" opacity="0">z'
+              f'<animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="{k * 0.8:.1f}s" repeatCount="indefinite"/></text>')
+    else:
+        # Runner with head torch, looping along the ridge; faster with a light trail when on a streak.
+        tail = (f'<path d="M-6,-3 L-46,0 L-6,3 Z" fill="url(#beam)" transform="scale(-1,1)"/>'
+                if mode == "fast" else "")
+        a('<g>'
+          f'<circle r="28" fill="url(#glow)"/>{tail}'
+          f'<path d="M4,-2 L34,-13 L34,9 Z" fill="url(#beam)"/>'
+          f'<circle r="5" fill="{c["runner"]}" stroke="{c["bg"]}" stroke-width="2"/>'
+          f'<animateMotion dur="{8 if mode == "fast" else 16}s" repeatCount="indefinite" rotate="auto" calcMode="linear">'
+          f'{xlink}</animateMotion></g>')
 
     # Stats strip, like the summary screen of a GPS watch.
     stats = [
@@ -300,6 +361,8 @@ def main():
     p.add_argument("--out", default="assets/trail")
     p.add_argument("--feed", default=FEED)
     p.add_argument("--data", help="raw GraphQL JSON instead of calling the API")
+    p.add_argument("--season", choices=["winter", "spring", "summer", "autumn"], help="preview a season")
+    p.add_argument("--mode", choices=["run", "fast", "rest"], help="preview a runner mode")
     args = p.parse_args()
 
     if args.data:
@@ -314,7 +377,7 @@ def main():
     for theme in THEMES:
         path = os.path.join(args.out, f"trail-{theme}.svg")
         with open(path, "w") as f:
-            f.write(render(weeks, posts, theme))
+            f.write(render(weeks, posts, theme, args.season, args.mode))
         print(f"wrote {path}")
 
 
