@@ -1,4 +1,6 @@
-# Hi, I'm Marco Mornati 👋 
+<p align="center">
+  <img src="./assets/bib/bib.svg" alt="Race bib number 2009: Marco Mornati, Director of Engineering at Decathlon Digital" width="100%" />
+</p>
 
 <p align="center">
   <picture>
@@ -35,6 +37,28 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
     <source media="(prefers-color-scheme: dark)" srcset="./assets/trail/trail-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/trail/trail-light.svg" />
     <img src="./assets/trail/trail-dark.svg" alt="My last year of GitHub contributions drawn as a trail elevation profile, with blog posts as aid stations" width="100%" />
+  </picture>
+</p>
+
+---
+
+### 🗺️ The Mornati Massif
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/massif/massif-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/massif/massif-light.svg" />
+    <img src="./assets/massif/massif-dark.svg" alt="Topographic map of my public repositories: each repo is a summit whose height comes from its stars, placed by creation year" width="100%" />
+  </picture>
+</p>
+
+---
+
+### 🏅 Finisher Medals
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/medals/medals-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/medals/medals-light.svg" />
+    <img src="./assets/medals/medals-dark.svg" alt="Finisher medals earned from GitHub milestones" width="100%" />
   </picture>
 </p>
 
