@@ -53,7 +53,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>1491e4f</b> 2026-09-30 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117361646469115012">The new proton-faces website made by opus 5.5. It is really amazing to…</a>
+* <b>3a9ff6b</b> 2026-10-02 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/ai-running-coach-five-days-later-chat-gear-map-videos/">ai-running-coach, Five Days Later: a Chat, a Gear Locker, a GPS Map and…</a>
+|\
+| * <b>1491e4f</b> 2026-09-30 (toot) <a href="https://techhub.social/@mmornati/117361646469115012">The new proton-faces website made by opus 5.5. It is really amazing to…</a>
 | * <b>a161a86</b> 2026-09-29 (toot) <a href="https://techhub.social/@mmornati/117352748046462856">With Opus 5.5 nothing is impossible. It is doing anything in a very…</a>
 | * <b>b60cc17</b> 2026-09-28 (toot) <a href="https://techhub.social/@mmornati/117347053918052803">🏃‍♂️ Petite mise à jour de mon coach IA… qui a bien grandi en 9 jours !…</a>
 |/
@@ -64,7 +66,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 * <b>cf6b9ef</b> 2026-09-26 (blog) <a href="https://blog.mornati.net/jev-home-assistant-history-feedback-and-the-local-model-question/">Jev in Home Assistant, Take Two: History, Feedback, and Why I Didn't Go…</a>
 |\
 | * <b>919e924</b> 2026-09-26 (toot) <a href="https://techhub.social/@mmornati/117335871964926845">One of the thing I added (sorry the screenshot is in French) is quite…</a>
-| * <b>701f7bd</b> 2026-09-25 (toot) <a href="https://techhub.social/@mmornati/117333679006590167">My home automations know thresholds, not context. Sump pump runs 2 min…</a>
 |/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
