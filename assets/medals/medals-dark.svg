@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250" role="img" aria-labelledby="t" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
-<title id="t">Finisher medals: PIONEER 2011 first repo (django-widgets); PODIUM 63 ★ most starred (docker-mock-rpmbuilder); ULTRA 16 YRS on GitHub (since Oct 2009); FAST START 20 ★ in 18 days (ai-running-coach); ENDURANCE 18 forks (springboot-osgi-sample); LONG RUN 8 YRS of commits (epomodoro)</title>
+<title id="t">Finisher medals: PIONEER 2011 first repo (django-widgets); PODIUM 63 ★ most starred (docker-mock-rpmbuilder); ULTRA 16 YRS on GitHub (since Oct 2009); FAST START 20 ★ in 19 days (ai-running-coach); ENDURANCE 18 forks (springboot-osgi-sample); LONG RUN 8 YRS of commits (epomodoro)</title>
 <defs><radialGradient id="shine" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
 <g><animateTransform attributeName="transform" type="rotate" values="-2 80.0 10;2 80.0 10;-2 80.0 10" dur="4s" begin="0.00s" repeatCount="indefinite"/>
 <path d="M56.0,6 L72.0,78 L88.0,78 L104.0,6 Z" fill="#f85149"/><path d="M73.0,6 L80.0,78 L87.0,6 Z" fill="#e6edf3" opacity=".85"/>
@@ -25,7 +25,7 @@
 <g><animateTransform attributeName="transform" type="rotate" values="-2 560.0 10;2 560.0 10;-2 560.0 10" dur="4s" begin="0.45s" repeatCount="indefinite"/>
 <path d="M536.0,6 L552.0,78 L568.0,78 L584.0,6 Z" fill="#3643ba"/><path d="M553.0,6 L560.0,78 L567.0,6 Z" fill="#e6edf3" opacity=".85"/>
 <circle cx="560.0" cy="128" r="50" fill="#cd8a4f"/><circle cx="560.0" cy="128" r="50" fill="url(#shine)"/><circle cx="560.0" cy="128" r="42" fill="none" stroke="#1a1200" stroke-opacity=".3" stroke-width="1.6" stroke-dasharray="3 3"/>
-<text x="560.0" y="124" fill="#1a1200" font-size="19" font-weight="800" text-anchor="middle">20 ★</text><text x="560.0" y="142" fill="#1a1200" font-size="8.5" text-anchor="middle" opacity=".8">in 18 days</text>
+<text x="560.0" y="124" fill="#1a1200" font-size="19" font-weight="800" text-anchor="middle">20 ★</text><text x="560.0" y="142" fill="#1a1200" font-size="8.5" text-anchor="middle" opacity=".8">in 19 days</text>
 </g>
 <text x="560.0" y="204" fill="#e6edf3" font-size="12" font-weight="800" text-anchor="middle" letter-spacing="1.5">FAST START</text>
 <text x="560.0" y="221" fill="#8b949e" font-size="9.5" text-anchor="middle">ai-running-coach</text>
