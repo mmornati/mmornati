@@ -77,19 +77,19 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>d69e971</b> 2026-10-07 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117398192245635202">Why are open source maintainers starting "closing the contributions"?…</a>
+| * <b>e73e066</b> 2026-10-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
+|/
+* <b>74c6259</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/new-week-another-ai-coach-ai-finance-coach/">New Week, Another AI Coach: ai-finance-coach</a>
+|\
+| * <b>b24e824</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117421118858177395">What if your product videos weren't video files? 🎬 To document…</a>
+|/
+* <b>b6868d4</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/canvas-videos-with-voice-over-in-javascript/">Narrated Product Videos Without a Video File: a Canvas, JavaScript and…</a>
+|\
+| * <b>d69e971</b> 2026-10-07 (toot) <a href="https://techhub.social/@mmornati/117398192245635202">Why are open source maintainers starting "closing the contributions"?…</a>
 | * <b>f139630</b> 2026-10-04 (toot) <a href="https://techhub.social/@mmornati/117384376265891097">New post: Cloudflare released Clef and Clef-flash, open decision models…</a>
 | * <b>68f51b1</b> 2026-10-04 (toot) <a href="https://techhub.social/@mmornati/117384271394614955">Clouflare released Clef and Clef Flash ( On my M4 16Gb RAM I can run…</a>
 |/
 * <b>4141c7d</b> 2026-10-04 (blog) <a href="https://blog.mornati.net/clef-flash-vs-jev-cloudflare-decision-model-on-a-macbook/">Clef-flash vs Jev: Cloudflare's Open Decision Model on a 16 GB MacBook</a>
-|\
-| * <b>cb9793c</b> 2026-10-03 (toot) <a href="https://techhub.social/@mmornati/117376523535607666">New post: Laya vs Jev, ten days later 🧠⚖️ Ten days ago I benchmarked…</a>
-|/
-* <b>0532772</b> 2026-10-03 (blog) <a href="https://blog.mornati.net/laya-vs-jev-ten-days-later-fine-tuning-on-a-macbook/">Laya vs Jev, Ten Days Later: New Rivals, a Fine-Tune on My MacBook, and…</a>
-* <b>3a9ff6b</b> 2026-10-02 (blog) <a href="https://blog.mornati.net/ai-running-coach-five-days-later-chat-gear-map-videos/">ai-running-coach, Five Days Later: a Chat, a Gear Locker, a GPS Map and…</a>
-|\
-| * <b>1491e4f</b> 2026-09-30 (toot) <a href="https://techhub.social/@mmornati/117361646469115012">The new proton-faces website made by opus 5.5. It is really amazing to…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
