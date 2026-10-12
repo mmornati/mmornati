@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>e73e066</b> 2026-10-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
+| * <b>6a81864</b> 2026-10-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
+|/
+* <b>53a2f42</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/laya-0-4-2-and-vegaml-a-physics-engine-decision-model-on-a-macbook/">Laya 0.4.2 and VegaML: a Decision Model That Rolls a Ball Downhill, on…</a>
+|\
+| * <b>e73e066</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
 |/
 * <b>74c6259</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/new-week-another-ai-coach-ai-finance-coach/">New Week, Another AI Coach: ai-finance-coach</a>
 |\
@@ -87,9 +91,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |\
 | * <b>d69e971</b> 2026-10-07 (toot) <a href="https://techhub.social/@mmornati/117398192245635202">Why are open source maintainers starting "closing the contributions"?…</a>
 | * <b>f139630</b> 2026-10-04 (toot) <a href="https://techhub.social/@mmornati/117384376265891097">New post: Cloudflare released Clef and Clef-flash, open decision models…</a>
-| * <b>68f51b1</b> 2026-10-04 (toot) <a href="https://techhub.social/@mmornati/117384271394614955">Clouflare released Clef and Clef Flash ( On my M4 16Gb RAM I can run…</a>
 |/
-* <b>4141c7d</b> 2026-10-04 (blog) <a href="https://blog.mornati.net/clef-flash-vs-jev-cloudflare-decision-model-on-a-macbook/">Clef-flash vs Jev: Cloudflare's Open Decision Model on a 16 GB MacBook</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
