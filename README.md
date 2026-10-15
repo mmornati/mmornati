@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>6a81864</b> 2026-10-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
+| * <b>5efe061</b> 2026-10-15 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
+|/
+* <b>d5985d8</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/drowning-in-email-ai-email-assistant-rules-first-models-last/">Drowning in Email: ai-email-assistant, Rules First, Models Last</a>
+|\
+| * <b>6a81864</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
 |/
 * <b>53a2f42</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/laya-0-4-2-and-vegaml-a-physics-engine-decision-model-on-a-macbook/">Laya 0.4.2 and VegaML: a Decision Model That Rolls a Ball Downhill, on…</a>
 |\
@@ -88,10 +92,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>b24e824</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117421118858177395">What if your product videos weren't video files? 🎬 To document…</a>
 |/
 * <b>b6868d4</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/canvas-videos-with-voice-over-in-javascript/">Narrated Product Videos Without a Video File: a Canvas, JavaScript and…</a>
-|\
-| * <b>d69e971</b> 2026-10-07 (toot) <a href="https://techhub.social/@mmornati/117398192245635202">Why are open source maintainers starting "closing the contributions"?…</a>
-| * <b>f139630</b> 2026-10-04 (toot) <a href="https://techhub.social/@mmornati/117384376265891097">New post: Cloudflare released Clef and Clef-flash, open decision models…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
