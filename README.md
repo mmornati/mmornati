@@ -77,21 +77,14 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>5efe061</b> 2026-10-15 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
-|/
+* <b>6176a78</b> 2026-10-15 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/use-ai-to-build-the-tool-not-to-be-the-tool/">Use AI to Build the Tool, Not to Be the Tool</a>
 * <b>d5985d8</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/drowning-in-email-ai-email-assistant-rules-first-models-last/">Drowning in Email: ai-email-assistant, Rules First, Models Last</a>
-|\
-| * <b>6a81864</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
-|/
 * <b>53a2f42</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/laya-0-4-2-and-vegaml-a-physics-engine-decision-model-on-a-macbook/">Laya 0.4.2 and VegaML: a Decision Model That Rolls a Ball Downhill, on…</a>
-|\
-| * <b>e73e066</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
-|/
 * <b>74c6259</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/new-week-another-ai-coach-ai-finance-coach/">New Week, Another AI Coach: ai-finance-coach</a>
-|\
-| * <b>b24e824</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117421118858177395">What if your product videos weren't video files? 🎬 To document…</a>
-|/
 * <b>b6868d4</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/canvas-videos-with-voice-over-in-javascript/">Narrated Product Videos Without a Video File: a Canvas, JavaScript and…</a>
+* <b>4141c7d</b> 2026-10-04 (blog) <a href="https://blog.mornati.net/clef-flash-vs-jev-cloudflare-decision-model-on-a-macbook/">Clef-flash vs Jev: Cloudflare's Open Decision Model on a 16 GB MacBook</a>
+* <b>0532772</b> 2026-10-03 (blog) <a href="https://blog.mornati.net/laya-vs-jev-ten-days-later-fine-tuning-on-a-macbook/">Laya vs Jev, Ten Days Later: New Rivals, a Fine-Tune on My MacBook, and…</a>
+* <b>3a9ff6b</b> 2026-10-02 (blog) <a href="https://blog.mornati.net/ai-running-coach-five-days-later-chat-gear-map-videos/">ai-running-coach, Five Days Later: a Chat, a Gear Locker, a GPS Map and…</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
