@@ -77,7 +77,8 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>218bb38</b> 2026-10-16 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117448934757469731">A thought I wanted to share: the current “just let the AI do…</a>
+| * <b>71e70e9</b> 2026-10-17 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117456342680140808">Anthropic's post on Scion made a great point: beyond Git scaling limits…</a>
+| * <b>218bb38</b> 2026-10-16 (toot) <a href="https://techhub.social/@mmornati/117448934757469731">A thought I wanted to share: the current “just let the AI do…</a>
 | * <b>5efe061</b> 2026-10-15 (toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
 |/
 * <b>6176a78</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/use-ai-to-build-the-tool-not-to-be-the-tool/">Use AI to Build the Tool, Not to Be the Tool</a>
@@ -89,7 +90,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |\
 | * <b>e73e066</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
 |/
-* <b>74c6259</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/new-week-another-ai-coach-ai-finance-coach/">New Week, Another AI Coach: ai-finance-coach</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
