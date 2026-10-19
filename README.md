@@ -77,7 +77,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>be9be29</b> 2026-10-18 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117463508119256615">As promised, a first blog post explaining the project in details: why…</a>
+* <b>89d5dba</b> 2026-10-19 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
+|\
+| * <b>be9be29</b> 2026-10-18 (toot) <a href="https://techhub.social/@mmornati/117463508119256615">As promised, a first blog post explaining the project in details: why…</a>
 |/
 * <b>b6f8a0c</b> 2026-10-18 (blog) <a href="https://blog.mornati.net/you-dont-need-scion-graft-review-layer-for-agent-pull-requests/">You Don't Need a Scion: Graft, a Review Layer for Agent Pull Requests</a>
 |\
@@ -87,9 +89,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |/
 * <b>6176a78</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/use-ai-to-build-the-tool-not-to-be-the-tool/">Use AI to Build the Tool, Not to Be the Tool</a>
 * <b>d5985d8</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/drowning-in-email-ai-email-assistant-rules-first-models-last/">Drowning in Email: ai-email-assistant, Rules First, Models Last</a>
-|\
-| * <b>6a81864</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
