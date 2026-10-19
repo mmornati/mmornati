@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>71e70e9</b> 2026-10-17 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117456342680140808">Anthropic's post on Scion made a great point: beyond Git scaling limits…</a>
+| * <b>be9be29</b> 2026-10-18 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117463508119256615">As promised, a first blog post explaining the project in details: why…</a>
+|/
+* <b>b6f8a0c</b> 2026-10-18 (blog) <a href="https://blog.mornati.net/you-dont-need-scion-graft-review-layer-for-agent-pull-requests/">You Don't Need a Scion: Graft, a Review Layer for Agent Pull Requests</a>
+|\
+| * <b>71e70e9</b> 2026-10-17 (toot) <a href="https://techhub.social/@mmornati/117456342680140808">Anthropic's post on Scion made a great point: beyond Git scaling limits…</a>
 | * <b>218bb38</b> 2026-10-16 (toot) <a href="https://techhub.social/@mmornati/117448934757469731">A thought I wanted to share: the current “just let the AI do…</a>
 | * <b>5efe061</b> 2026-10-15 (toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
 |/
@@ -85,10 +89,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 * <b>d5985d8</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/drowning-in-email-ai-email-assistant-rules-first-models-last/">Drowning in Email: ai-email-assistant, Rules First, Models Last</a>
 |\
 | * <b>6a81864</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117424032797757635">New "System One" decision model from the author of Laya: VegaML. Into…</a>
-|/
-* <b>53a2f42</b> 2026-10-11 (blog) <a href="https://blog.mornati.net/laya-0-4-2-and-vegaml-a-physics-engine-decision-model-on-a-macbook/">Laya 0.4.2 and VegaML: a Decision Model That Rolls a Ball Downhill, on…</a>
-|\
-| * <b>e73e066</b> 2026-10-11 (toot) <a href="https://techhub.social/@mmornati/117422308545393814">Last week an AI coach for my trail running. This week, one for the…</a>
 |/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
