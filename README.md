@@ -77,7 +77,9 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-* <b>89d5dba</b> 2026-10-19 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
+| * <b>218415a</b> 2026-10-19 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
+|/
+* <b>89d5dba</b> 2026-10-19 (blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
 |\
 | * <b>be9be29</b> 2026-10-18 (toot) <a href="https://techhub.social/@mmornati/117463508119256615">As promised, a first blog post explaining the project in details: why…</a>
 |/
@@ -88,7 +90,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>5efe061</b> 2026-10-15 (toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
 |/
 * <b>6176a78</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/use-ai-to-build-the-tool-not-to-be-the-tool/">Use AI to Build the Tool, Not to Be the Tool</a>
-* <b>d5985d8</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/drowning-in-email-ai-email-assistant-rules-first-models-last/">Drowning in Email: ai-email-assistant, Rules First, Models Last</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
