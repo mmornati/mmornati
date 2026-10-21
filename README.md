@@ -77,7 +77,10 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>218415a</b> 2026-10-19 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
+* <b>e7028fa</b> 2026-10-20 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/three-agents-at-95-percent-dont-give-you-99-99/">Three Agents at 95% Don't Give You 99.99%: The Maths of Asking Twice</a>
+* <b>7d8a68e</b> 2026-10-20 (blog) <a href="https://blog.mornati.net/your-agents-ship-fast-make-them-pass-a-release-gate/">Your Agents Ship Fast. Make Them Pass a Release Gate First</a>
+|\
+| * <b>218415a</b> 2026-10-19 (toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
 |/
 * <b>89d5dba</b> 2026-10-19 (blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
 |\
@@ -87,9 +90,7 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |\
 | * <b>71e70e9</b> 2026-10-17 (toot) <a href="https://techhub.social/@mmornati/117456342680140808">Anthropic's post on Scion made a great point: beyond Git scaling limits…</a>
 | * <b>218bb38</b> 2026-10-16 (toot) <a href="https://techhub.social/@mmornati/117448934757469731">A thought I wanted to share: the current “just let the AI do…</a>
-| * <b>5efe061</b> 2026-10-15 (toot) <a href="https://techhub.social/@mmornati/117443248279325664">Every working day starts the same way: too much mail. CI failures…</a>
 |/
-* <b>6176a78</b> 2026-10-15 (blog) <a href="https://blog.mornati.net/use-ai-to-build-the-tool-not-to-be-the-tool/">Use AI to Build the Tool, Not to Be the Tool</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
