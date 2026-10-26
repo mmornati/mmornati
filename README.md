@@ -77,7 +77,8 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-* <b>e7028fa</b> 2026-10-20 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/three-agents-at-95-percent-dont-give-you-99-99/">Three Agents at 95% Don't Give You 99.99%: The Maths of Asking Twice</a>
+* <b>e90365e</b> 2026-10-26 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/laya-on-an-n100-replacing-jev-in-home-assistant-and-fine-tuning-it/">Laya on an N100: Swapping Jev for a Local Model in Home Assistant, and…</a>
+* <b>e7028fa</b> 2026-10-20 (blog) <a href="https://blog.mornati.net/three-agents-at-95-percent-dont-give-you-99-99/">Three Agents at 95% Don't Give You 99.99%: The Maths of Asking Twice</a>
 * <b>7d8a68e</b> 2026-10-20 (blog) <a href="https://blog.mornati.net/your-agents-ship-fast-make-them-pass-a-release-gate/">Your Agents Ship Fast. Make Them Pass a Release Gate First</a>
 |\
 | * <b>218415a</b> 2026-10-19 (toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
@@ -89,7 +90,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 * <b>b6f8a0c</b> 2026-10-18 (blog) <a href="https://blog.mornati.net/you-dont-need-scion-graft-review-layer-for-agent-pull-requests/">You Don't Need a Scion: Graft, a Review Layer for Agent Pull Requests</a>
 |\
 | * <b>71e70e9</b> 2026-10-17 (toot) <a href="https://techhub.social/@mmornati/117456342680140808">Anthropic's post on Scion made a great point: beyond Git scaling limits…</a>
-| * <b>218bb38</b> 2026-10-16 (toot) <a href="https://techhub.social/@mmornati/117448934757469731">A thought I wanted to share: the current “just let the AI do…</a>
 |/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
