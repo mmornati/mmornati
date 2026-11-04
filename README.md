@@ -77,7 +77,8 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-* <b>b09da4f</b> 2026-10-31 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/home-assistant-ships-every-month-let-claude-read-the-release-notes/">Home Assistant Ships Every Month: a CI That Reads the Release Notes…</a>
+* <b>dca4125</b> 2026-11-03 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/one-year-later-a-stronger-model-reviews-my-vibe-coded-app/">One Year Later: I Asked a Stronger Model to Review My Vibe-Coded App</a>
+* <b>b09da4f</b> 2026-10-31 (blog) <a href="https://blog.mornati.net/home-assistant-ships-every-month-let-claude-read-the-release-notes/">Home Assistant Ships Every Month: a CI That Reads the Release Notes…</a>
 |\
 | * <b>51ed2ed</b> 2026-10-26 (toot) <a href="https://techhub.social/@mmornati/117508587360627007">I tried to challenge Jev in taking decision in my home automation…</a>
 |/
@@ -88,9 +89,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>218415a</b> 2026-10-19 (toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
 |/
 * <b>89d5dba</b> 2026-10-19 (blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
-|\
-| * <b>be9be29</b> 2026-10-18 (toot) <a href="https://techhub.social/@mmornati/117463508119256615">As promised, a first blog post explaining the project in details: why…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
