@@ -77,7 +77,10 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-* <b>dca4125</b> 2026-11-03 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/one-year-later-a-stronger-model-reviews-my-vibe-coded-app/">One Year Later: I Asked a Stronger Model to Review My Vibe-Coded App</a>
+| * <b>2b60ea0</b> 2026-11-09 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117587708202475491">At home, I'm the IT support. And tickets arrive verbally: "The Wi-Fi…</a>
+|/
+* <b>c295318</b> 2026-11-09 (blog) <a href="https://blog.mornati.net/have-you-tried-turning-it-off-and-on-again-monitoring-a-home-network/">Have You Tried Turning It Off and On Again? Monitoring a Home Network…</a>
+* <b>dca4125</b> 2026-11-03 (blog) <a href="https://blog.mornati.net/one-year-later-a-stronger-model-reviews-my-vibe-coded-app/">One Year Later: I Asked a Stronger Model to Review My Vibe-Coded App</a>
 * <b>b09da4f</b> 2026-10-31 (blog) <a href="https://blog.mornati.net/home-assistant-ships-every-month-let-claude-read-the-release-notes/">Home Assistant Ships Every Month: a CI That Reads the Release Notes…</a>
 |\
 | * <b>51ed2ed</b> 2026-10-26 (toot) <a href="https://techhub.social/@mmornati/117508587360627007">I tried to challenge Jev in taking decision in my home automation…</a>
@@ -85,10 +88,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 * <b>e90365e</b> 2026-10-26 (blog) <a href="https://blog.mornati.net/laya-on-an-n100-replacing-jev-in-home-assistant-and-fine-tuning-it/">Laya on an N100: Swapping Jev for a Local Model in Home Assistant, and…</a>
 * <b>e7028fa</b> 2026-10-20 (blog) <a href="https://blog.mornati.net/three-agents-at-95-percent-dont-give-you-99-99/">Three Agents at 95% Don't Give You 99.99%: The Maths of Asking Twice</a>
 * <b>7d8a68e</b> 2026-10-20 (blog) <a href="https://blog.mornati.net/your-agents-ship-fast-make-them-pass-a-release-gate/">Your Agents Ship Fast. Make Them Pass a Release Gate First</a>
-|\
-| * <b>218415a</b> 2026-10-19 (toot) <a href="https://techhub.social/@mmornati/117468971790469305">I gave a six-week plan built for 2–3 engineers to a team of AI agents…</a>
-|/
-* <b>89d5dba</b> 2026-10-19 (blog) <a href="https://blog.mornati.net/six-weeks-in-one-night-building-a-product-in-the-agentic-era/">Six Weeks in One Night: How a Product Gets Built in the Agentic Era</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
