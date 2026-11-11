@@ -77,18 +77,17 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-* <b>ae56860</b> 2026-11-10 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/jev-1-14-and-kev-4b-a-better-classifier-and-the-closest-open-model/">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
+| * <b>151d33b</b> 2026-11-10 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117593804727694349">I went a little further on network monitoring at home. The reason…</a>
+| * <b>fa876dd</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593736052215361">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
+|/
+* <b>e9ae4d5</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/who-is-really-using-my-fibre-mirroring-home-traffic-to-a-raspberry-pi/">Who Is Really Using My Fibre? Mirroring Every Packet to a Raspberry Pi…</a>
+* <b>ae56860</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/jev-1-14-and-kev-4b-a-better-classifier-and-the-closest-open-model/">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
 |\
 | * <b>3a1598c</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593210847027205">I'm finalizing a new blog post to complete the one where I explain how…</a>
 | * <b>2b60ea0</b> 2026-11-09 (toot) <a href="https://techhub.social/@mmornati/117587708202475491">At home, I'm the IT support. And tickets arrive verbally: "The Wi-Fi…</a>
 |/
 * <b>c295318</b> 2026-11-09 (blog) <a href="https://blog.mornati.net/have-you-tried-turning-it-off-and-on-again-monitoring-a-home-network/">Have You Tried Turning It Off and On Again? Monitoring a Home Network…</a>
 * <b>dca4125</b> 2026-11-03 (blog) <a href="https://blog.mornati.net/one-year-later-a-stronger-model-reviews-my-vibe-coded-app/">One Year Later: I Asked a Stronger Model to Review My Vibe-Coded App</a>
-* <b>b09da4f</b> 2026-10-31 (blog) <a href="https://blog.mornati.net/home-assistant-ships-every-month-let-claude-read-the-release-notes/">Home Assistant Ships Every Month: a CI That Reads the Release Notes…</a>
-|\
-| * <b>51ed2ed</b> 2026-10-26 (toot) <a href="https://techhub.social/@mmornati/117508587360627007">I tried to challenge Jev in taking decision in my home automation…</a>
-|/
-* <b>e90365e</b> 2026-10-26 (blog) <a href="https://blog.mornati.net/laya-on-an-n100-replacing-jev-in-home-assistant-and-fine-tuning-it/">Laya on an N100: Swapping Jev for a Local Model in Home Assistant, and…</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
