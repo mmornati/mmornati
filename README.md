@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>151d33b</b> 2026-11-10 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117593804727694349">I went a little further on network monitoring at home. The reason…</a>
+| * <b>6ad35b2</b> 2026-11-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117599638540961102">ENGLISH: if you want to read the full story in English, the blog post…</a>
+|/
+* <b>9d12350</b> 2026-11-11 (blog) <a href="https://blog.mornati.net/five-years-of-swapped-circuits-my-heat-pump-reviewed-with-claude/">Five Years of Swapped Circuits: an Afternoon with Claude to Put My Heat…</a>
+|\
+| * <b>151d33b</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593804727694349">I went a little further on network monitoring at home. The reason…</a>
 | * <b>fa876dd</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593736052215361">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
 |/
 * <b>e9ae4d5</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/who-is-really-using-my-fibre-mirroring-home-traffic-to-a-raspberry-pi/">Who Is Really Using My Fibre? Mirroring Every Packet to a Raspberry Pi…</a>
@@ -86,8 +90,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>3a1598c</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593210847027205">I'm finalizing a new blog post to complete the one where I explain how…</a>
 | * <b>2b60ea0</b> 2026-11-09 (toot) <a href="https://techhub.social/@mmornati/117587708202475491">At home, I'm the IT support. And tickets arrive verbally: "The Wi-Fi…</a>
 |/
-* <b>c295318</b> 2026-11-09 (blog) <a href="https://blog.mornati.net/have-you-tried-turning-it-off-and-on-again-monitoring-a-home-network/">Have You Tried Turning It Off and On Again? Monitoring a Home Network…</a>
-* <b>dca4125</b> 2026-11-03 (blog) <a href="https://blog.mornati.net/one-year-later-a-stronger-model-reviews-my-vibe-coded-app/">One Year Later: I Asked a Stronger Model to Review My Vibe-Coded App</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
