@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>6ad35b2</b> 2026-11-11 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117599638540961102">ENGLISH: if you want to read the full story in English, the blog post…</a>
+| * <b>256dd78</b> 2026-11-15 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117621562969523517">Si vous habitez à Lille et que vous avez HomeAssistant, j'ai fait…</a>
+|/
+* <b>0c7a865</b> 2026-11-14 (blog) <a href="https://blog.mornati.net/one-human-a-board-and-a-team-of-agents/">One Human, a Board and a Team of Agents: How I Build Software Now (and…</a>
+|\
+| * <b>6ad35b2</b> 2026-11-11 (toot) <a href="https://techhub.social/@mmornati/117599638540961102">ENGLISH: if you want to read the full story in English, the blog post…</a>
 |/
 * <b>9d12350</b> 2026-11-11 (blog) <a href="https://blog.mornati.net/five-years-of-swapped-circuits-my-heat-pump-reviewed-with-claude/">Five Years of Swapped Circuits: an Afternoon with Claude to Put My Heat…</a>
 |\
@@ -86,10 +90,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |/
 * <b>e9ae4d5</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/who-is-really-using-my-fibre-mirroring-home-traffic-to-a-raspberry-pi/">Who Is Really Using My Fibre? Mirroring Every Packet to a Raspberry Pi…</a>
 * <b>ae56860</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/jev-1-14-and-kev-4b-a-better-classifier-and-the-closest-open-model/">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
-|\
-| * <b>3a1598c</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593210847027205">I'm finalizing a new blog post to complete the one where I explain how…</a>
-| * <b>2b60ea0</b> 2026-11-09 (toot) <a href="https://techhub.social/@mmornati/117587708202475491">At home, I'm the IT support. And tickets arrive verbally: "The Wi-Fi…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
