@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440" role="img" aria-labelledby="t d" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
 <title id="t">The Mornati Massif</title>
-<desc id="d">Topographic map of public repositories. Summits: docker-mock-rpmbuilder 630 m, springboot-osgi-sample 420 m, ruby-noise-detection 330 m, ai-running-coach 240 m, home-assistant-csnet-home 150 m, graft 120 m, docker-ghostblog 100 m, nexus-dev 80 m, django-widgets 70 m, gphoto2proton 70 m, epomodoro 60 m</desc>
+<desc id="d">Topographic map of public repositories. Summits: docker-mock-rpmbuilder 630 m, springboot-osgi-sample 420 m, ruby-noise-detection 330 m, ai-running-coach 260 m, home-assistant-csnet-home 150 m, graft 120 m, docker-ghostblog 100 m, nexus-dev 80 m, django-widgets 70 m, gphoto2proton 70 m, epomodoro 60 m</desc>
 <defs><clipPath id="frame"><rect width="960" height="440" rx="12"/></clipPath></defs>
 <style>.lbl{paint-order:stroke;stroke:#fbfcf8;stroke-width:4px;stroke-linejoin:round}</style>
 <g clip-path="url(#frame)">
@@ -49,6 +49,7 @@
 <path d="M227.5,232.0L223.7,235.5L222.1,238.9L222.5,243.1L222.7,248.3L220.3,253.4L214.7,256.9L206.9,258.3L198.9,257.9L191.6,256.9L184.8,256.1L178.1,255.1L171.9,253.3L167.1,250.2L163.9,246.5L161.4,242.9L157.9,239.7L152.8,236.3L147.5,232.0L144.9,226.9L146.9,221.8L153.2,218.2L161.4,216.2L168.9,215.1L174.7,213.7L179.6,211.4L185.0,208.7L191.6,207.0L198.7,206.9L205.5,208.2L211.9,210.0L218.5,212.0L225.2,214.4L230.7,217.9L233.0,222.6L231.5,227.6L227.5,232.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M218.5,232.0L215.7,234.6L214.5,237.2L214.8,240.3L214.9,244.2L213.2,248.0L208.9,250.7L203.1,251.7L197.1,251.4L191.6,250.7L186.5,250.1L181.5,249.3L176.9,247.9L173.2,245.7L170.9,242.9L169.0,240.2L166.3,237.7L162.5,235.2L158.5,232.0L156.6,228.1L158.1,224.4L162.8,221.6L169.0,220.2L174.6,219.3L178.9,218.3L182.6,216.5L186.7,214.6L191.6,213.3L196.9,213.2L202.0,214.2L206.9,215.5L211.8,217.0L216.8,218.8L220.9,221.4L222.7,224.9L221.6,228.7L218.5,232.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M209.6,232.0L207.6,233.8L206.8,235.5L207.1,237.6L207.2,240.1L206.0,242.7L203.1,244.5L199.3,245.1L195.3,244.9L191.6,244.5L188.2,244.1L184.9,243.6L181.8,242.6L179.4,241.1L177.8,239.2L176.5,237.4L174.7,235.8L172.2,234.1L169.6,232.0L168.3,229.4L169.3,226.9L172.4,225.1L176.5,224.1L180.3,223.6L183.1,222.9L185.6,221.7L188.3,220.4L191.6,219.5L195.2,219.5L198.5,220.1L201.8,221.0L205.1,222.0L208.4,223.2L211.1,225.0L212.3,227.3L211.6,229.8L209.6,232.0Z" fill="#a0522d" fill-opacity="0.12" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
+<path d="M961.5,172.0L955.3,179.8L945.0,185.7L935.0,190.0L928.3,194.7L924.4,201.4L920.0,209.9L911.6,217.8L899.1,222.2L884.9,221.8L871.9,217.9L861.1,212.8L851.3,208.3L841.7,204.1L832.9,199.2L826.8,192.9L824.1,185.8L823.3,178.8L821.5,172.0L817.5,164.6L813.5,155.8L813.7,146.4L821.0,138.6L834.4,134.5L850.0,134.3L863.7,135.7L874.8,136.2L884.9,134.5L896.2,131.9L909.0,130.7L921.3,132.6L931.7,137.2L940.1,143.1L948.0,149.3L955.7,155.9L961.2,163.6L961.5,172.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M950.5,172.0L945.3,178.6L936.4,183.7L927.8,187.5L922.1,191.5L918.8,197.2L915.0,204.5L907.8,211.3L897.1,215.1L884.9,214.7L873.8,211.3L864.5,207.0L856.1,203.1L847.9,199.5L840.3,195.3L835.1,190.0L832.8,183.8L832.1,177.8L830.5,172.0L827.1,165.6L823.7,158.1L823.9,150.0L830.1,143.3L841.7,139.8L855.0,139.6L866.8,140.9L876.2,141.3L884.9,139.8L894.6,137.6L905.5,136.6L916.1,138.3L925.0,142.2L932.2,147.2L939.0,152.5L945.6,158.2L950.3,164.8L950.5,172.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.9" stroke-width="1.4"/>
 <path d="M939.6,172.0L935.2,177.5L927.9,181.8L920.7,184.9L915.9,188.2L913.1,193.0L910.0,199.1L904.0,204.7L895.0,207.9L884.9,207.6L875.6,204.8L867.9,201.2L860.9,197.9L854.0,195.0L847.7,191.5L843.4,187.0L841.5,181.9L840.9,176.8L839.6,172.0L836.7,166.7L833.9,160.4L834.1,153.7L839.3,148.1L848.9,145.2L860.0,145.0L869.8,146.1L877.7,146.4L884.9,145.2L893.0,143.3L902.1,142.5L910.9,143.9L918.3,147.2L924.3,151.3L930.0,155.8L935.5,160.5L939.4,166.0L939.6,172.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M928.6,172.0L925.1,176.4L919.3,179.8L913.5,182.3L909.7,185.0L907.5,188.8L904.9,193.7L900.2,198.2L893.0,200.7L884.9,200.5L877.5,198.2L871.3,195.3L865.7,192.7L860.2,190.4L855.2,187.6L851.7,184.0L850.2,179.9L849.7,175.9L848.6,172.0L846.4,167.8L844.1,162.7L844.2,157.3L848.4,152.9L856.1,150.6L864.9,150.4L872.8,151.3L879.1,151.5L884.9,150.6L891.4,149.1L898.7,148.4L905.7,149.5L911.6,152.1L916.5,155.5L921.0,159.0L925.3,162.8L928.5,167.2L928.6,172.0Z" fill="none" fill-opacity="0" stroke="#a0522d" stroke-opacity="0.5" stroke-width="0.8"/>
@@ -90,7 +91,7 @@
 <text class="lbl" x="191.6" y="264.0" fill="#a0522d" font-size="10" text-anchor="middle">330 m</text>
 <path d="M884.9,166.0 l6,10 h-12z" fill="#1f2328"/>
 <text class="lbl" x="884.9" y="192.0" fill="#1f2328" font-size="10.5" font-weight="700" text-anchor="middle">ai-running-coach</text>
-<text class="lbl" x="884.9" y="204.0" fill="#a0522d" font-size="10" text-anchor="middle">240 m</text>
+<text class="lbl" x="884.9" y="204.0" fill="#a0522d" font-size="10" text-anchor="middle">260 m</text>
 <path d="M795.0,226.0 l6,10 h-12z" fill="#1f2328"/>
 <text class="lbl" x="795.0" y="252.0" fill="#1f2328" font-size="10.5" font-weight="700" text-anchor="middle">home-assistant-csnet-home</text>
 <text class="lbl" x="795.0" y="264.0" fill="#a0522d" font-size="10" text-anchor="middle">150 m</text>
@@ -123,5 +124,5 @@
 <text x="585.0" y="414" fill="#59636e" font-size="10" text-anchor="middle">2021</text>
 <text x="690.0" y="414" fill="#59636e" font-size="10" text-anchor="middle">2023</text>
 <text x="795.0" y="414" fill="#59636e" font-size="10" text-anchor="middle">2025</text>
-<text x="852" y="34" fill="#a0522d" font-size="14" font-weight="800" text-anchor="end">D+ 2,270 m</text>
+<text x="852" y="34" fill="#a0522d" font-size="14" font-weight="800" text-anchor="end">D+ 2,290 m</text>
 </g></svg>
