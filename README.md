@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>256dd78</b> 2026-11-15 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117621562969523517">Si vous habitez à Lille et que vous avez HomeAssistant, j'ai fait…</a>
+| * <b>edf1c31</b> 2026-11-18 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117639502307077216">When you maintain a plugin for a big project, every new release of that…</a>
+|/
+* <b>9901a9c</b> 2026-11-18 (blog) <a href="https://blog.mornati.net/angelia-stop-polling-for-releases-let-them-push-to-your-ci/">Stop Polling for Releases, Let Them Push to Your CI: Angelia, a…</a>
+|\
+| * <b>256dd78</b> 2026-11-15 (toot) <a href="https://techhub.social/@mmornati/117621562969523517">Si vous habitez à Lille et que vous avez HomeAssistant, j'ai fait…</a>
 |/
 * <b>0c7a865</b> 2026-11-14 (blog) <a href="https://blog.mornati.net/one-human-a-board-and-a-team-of-agents/">One Human, a Board and a Team of Agents: How I Build Software Now (and…</a>
 |\
@@ -88,8 +92,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>151d33b</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593804727694349">I went a little further on network monitoring at home. The reason…</a>
 | * <b>fa876dd</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593736052215361">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
 |/
-* <b>e9ae4d5</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/who-is-really-using-my-fibre-mirroring-home-traffic-to-a-raspberry-pi/">Who Is Really Using My Fibre? Mirroring Every Packet to a Raspberry Pi…</a>
-* <b>ae56860</b> 2026-11-10 (blog) <a href="https://blog.mornati.net/jev-1-14-and-kev-4b-a-better-classifier-and-the-closest-open-model/">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
