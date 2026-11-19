@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>edf1c31</b> 2026-11-18 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117639502307077216">When you maintain a plugin for a big project, every new release of that…</a>
+| * <b>3f7a39d</b> 2026-11-19 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117641855536542058">New project, new unpronounceable Greek name. I know, I know… but this…</a>
+|/
+* <b>8e07212</b> 2026-11-19 (blog) <a href="https://blog.mornati.net/paeon-an-on-call-colleague-for-my-home-server/">Paeon: an On-Call Colleague for My Home Server, Who Thinks Before…</a>
+|\
+| * <b>edf1c31</b> 2026-11-18 (toot) <a href="https://techhub.social/@mmornati/117639502307077216">When you maintain a plugin for a big project, every new release of that…</a>
 |/
 * <b>9901a9c</b> 2026-11-18 (blog) <a href="https://blog.mornati.net/angelia-stop-polling-for-releases-let-them-push-to-your-ci/">Stop Polling for Releases, Let Them Push to Your CI: Angelia, a…</a>
 |\
@@ -88,10 +92,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>6ad35b2</b> 2026-11-11 (toot) <a href="https://techhub.social/@mmornati/117599638540961102">ENGLISH: if you want to read the full story in English, the blog post…</a>
 |/
 * <b>9d12350</b> 2026-11-11 (blog) <a href="https://blog.mornati.net/five-years-of-swapped-circuits-my-heat-pump-reviewed-with-claude/">Five Years of Swapped Circuits: an Afternoon with Claude to Put My Heat…</a>
-|\
-| * <b>151d33b</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593804727694349">I went a little further on network monitoring at home. The reason…</a>
-| * <b>fa876dd</b> 2026-11-10 (toot) <a href="https://techhub.social/@mmornati/117593736052215361">Jev 1.14 and Kev-4B: a Better Classifier That Routes Pricier, and an…</a>
-|/
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
