@@ -77,7 +77,11 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>3f7a39d</b> 2026-11-19 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117641855536542058">New project, new unpronounceable Greek name. I know, I know… but this…</a>
+| * <b>f4af2ef</b> 2026-11-22 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117662438770270606">As a kid I played Activision's "Hacker". Black screen, "LOGON PLEASE"…</a>
+|/
+* <b>3c05db2</b> 2026-11-22 (blog) <a href="https://blog.mornati.net/breach-a-new-hacking-game/">BREACH: a New Hacking Game, to Learn How Real Attacks Work</a>
+|\
+| * <b>3f7a39d</b> 2026-11-19 (toot) <a href="https://techhub.social/@mmornati/117641855536542058">New project, new unpronounceable Greek name. I know, I know… but this…</a>
 |/
 * <b>8e07212</b> 2026-11-19 (blog) <a href="https://blog.mornati.net/paeon-an-on-call-colleague-for-my-home-server/">Paeon: an On-Call Colleague for My Home Server, Who Thinks Before…</a>
 |\
@@ -88,10 +92,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 | * <b>256dd78</b> 2026-11-15 (toot) <a href="https://techhub.social/@mmornati/117621562969523517">Si vous habitez à Lille et que vous avez HomeAssistant, j'ai fait…</a>
 |/
 * <b>0c7a865</b> 2026-11-14 (blog) <a href="https://blog.mornati.net/one-human-a-board-and-a-team-of-agents/">One Human, a Board and a Team of Agents: How I Build Software Now (and…</a>
-|\
-| * <b>6ad35b2</b> 2026-11-11 (toot) <a href="https://techhub.social/@mmornati/117599638540961102">ENGLISH: if you want to read the full story in English, the blog post…</a>
-|/
-* <b>9d12350</b> 2026-11-11 (blog) <a href="https://blog.mornati.net/five-years-of-swapped-circuits-my-heat-pump-reviewed-with-claude/">Five Years of Swapped Circuits: an Afternoon with Claude to Put My Heat…</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
