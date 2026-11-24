@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440" role="img" aria-labelledby="t d" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
 <title id="t">The Mornati Massif</title>
-<desc id="d">Topographic map of public repositories. Summits: docker-mock-rpmbuilder 620 m, springboot-osgi-sample 420 m, ruby-noise-detection 320 m, ai-running-coach 290 m, home-assistant-csnet-home 160 m, graft 120 m, docker-ghostblog 100 m, nexus-dev 80 m, django-widgets 70 m, gphoto2proton 70 m, epomodoro 60 m</desc>
+<desc id="d">Topographic map of public repositories. Summits: docker-mock-rpmbuilder 620 m, springboot-osgi-sample 420 m, ruby-noise-detection 320 m, ai-running-coach 290 m, home-assistant-csnet-home 170 m, graft 120 m, docker-ghostblog 100 m, nexus-dev 80 m, django-widgets 70 m, gphoto2proton 70 m, epomodoro 60 m</desc>
 <defs><clipPath id="frame"><rect width="960" height="440" rx="12"/></clipPath></defs>
 <style>.lbl{paint-order:stroke;stroke:#0b1310;stroke-width:4px;stroke-linejoin:round}</style>
 <g clip-path="url(#frame)">
@@ -55,6 +55,7 @@
 <path d="M928.6,172.0L925.1,176.4L919.3,179.8L913.5,182.3L909.7,185.0L907.5,188.8L904.9,193.7L900.2,198.2L893.0,200.7L884.9,200.5L877.5,198.2L871.3,195.3L865.7,192.7L860.2,190.4L855.2,187.6L851.7,184.0L850.2,179.9L849.7,175.9L848.6,172.0L846.4,167.8L844.1,162.7L844.2,157.3L848.4,152.9L856.1,150.6L864.9,150.4L872.8,151.3L879.1,151.5L884.9,150.6L891.4,149.1L898.7,148.4L905.7,149.5L911.6,152.1L916.5,155.5L921.0,159.0L925.3,162.8L928.5,167.2L928.6,172.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M917.7,172.0L915.1,175.3L910.7,177.9L906.4,179.7L903.5,181.7L901.8,184.6L899.9,188.2L896.4,191.6L891.0,193.5L884.9,193.4L879.3,191.7L874.7,189.5L870.5,187.6L866.4,185.8L862.6,183.7L860.0,181.0L858.8,177.9L858.5,174.9L857.7,172.0L856.0,168.8L854.3,165.0L854.4,161.0L857.5,157.7L863.3,155.9L869.9,155.8L875.8,156.5L880.6,156.7L884.9,155.9L889.8,154.8L895.2,154.3L900.5,155.1L904.9,157.1L908.6,159.6L911.9,162.3L915.2,165.1L917.6,168.4L917.7,172.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M906.8,172.0L905.0,174.2L902.1,175.9L899.2,177.2L897.3,178.5L896.2,180.4L894.9,182.8L892.5,185.1L889.0,186.4L884.9,186.2L881.2,185.1L878.1,183.7L875.3,182.4L872.5,181.2L870.0,179.8L868.3,178.0L867.5,175.9L867.3,173.9L866.8,172.0L865.6,169.9L864.5,167.4L864.6,164.7L866.6,162.4L870.5,161.3L874.9,161.2L878.9,161.6L882.0,161.8L884.9,161.3L888.1,160.5L891.8,160.2L895.3,160.8L898.3,162.1L900.7,163.7L902.9,165.5L905.1,167.4L906.7,169.6L906.8,172.0Z" fill="#ffb547" fill-opacity="0.12" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
+<path d="M857.0,232.0L860.3,239.2L857.8,246.3L851.0,252.2L842.7,257.0L834.5,261.3L825.9,265.4L816.1,268.3L805.4,268.7L795.0,266.7L786.0,263.7L777.8,261.5L768.1,261.0L756.0,261.0L743.0,259.2L732.9,254.4L729.0,247.0L731.4,239.0L737.0,232.0L742.1,226.2L745.0,220.6L747.1,214.7L750.8,208.9L757.3,204.0L765.9,200.6L775.1,197.9L784.5,195.0L795.0,191.9L806.9,189.9L818.8,191.2L828.1,196.2L833.1,203.6L834.9,211.1L836.8,216.9L841.8,221.4L849.6,226.0L857.0,232.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.9" stroke-width="1.4"/>
 <path d="M846.7,232.0L849.4,238.0L847.3,243.9L841.7,248.8L834.8,252.8L827.9,256.5L820.8,259.8L812.6,262.2L803.7,262.6L795.0,260.9L787.5,258.4L780.6,256.6L772.6,256.2L762.5,256.2L751.7,254.7L743.2,250.6L740.0,244.5L742.0,237.8L746.7,232.0L750.9,227.2L753.4,222.5L755.1,217.6L758.2,212.7L763.6,208.7L770.8,205.8L778.4,203.6L786.3,201.2L795.0,198.5L804.9,197.0L814.8,198.0L822.6,202.2L826.8,208.4L828.3,214.6L829.9,219.4L834.0,223.1L840.5,227.0L846.7,232.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M836.4,232.0L838.5,236.8L836.9,241.5L832.4,245.5L826.8,248.7L821.3,251.6L815.6,254.3L809.1,256.2L801.9,256.5L795.0,255.2L789.0,253.1L783.5,251.7L777.1,251.4L769.0,251.3L760.3,250.2L753.6,246.9L751.0,242.0L752.6,236.7L756.4,232.0L759.7,228.1L761.7,224.4L763.1,220.5L765.5,216.6L769.9,213.3L775.6,211.0L781.7,209.3L788.0,207.3L795.0,205.2L802.9,204.0L810.9,204.8L817.1,208.1L820.4,213.1L821.6,218.1L822.9,222.0L826.2,224.9L831.4,228.0L836.4,232.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
 <path d="M826.0,232.0L827.6,235.6L826.4,239.1L823.0,242.1L818.9,244.5L814.7,246.7L810.5,248.7L805.6,250.1L800.2,250.4L795.0,249.4L790.5,247.8L786.4,246.8L781.6,246.5L775.5,246.5L769.0,245.6L763.9,243.2L762.0,239.5L763.2,235.5L766.0,232.0L768.6,229.1L770.0,226.3L771.1,223.4L772.9,220.4L776.2,218.0L780.5,216.3L785.1,214.9L789.8,213.5L795.0,211.9L800.9,211.0L806.9,211.6L811.6,214.1L814.1,217.8L815.0,221.6L815.9,224.5L818.4,226.7L822.3,229.0L826.0,232.0Z" fill="none" fill-opacity="0" stroke="#c8873a" stroke-opacity="0.5" stroke-width="0.8"/>
@@ -94,7 +95,7 @@
 <text class="lbl" x="884.9" y="204.0" fill="#ffb547" font-size="10" text-anchor="middle">290 m</text>
 <path d="M795.0,226.0 l6,10 h-12z" fill="#e6edf3"/>
 <text class="lbl" x="795.0" y="252.0" fill="#e6edf3" font-size="10.5" font-weight="700" text-anchor="middle">home-assistant-csnet-home</text>
-<text class="lbl" x="795.0" y="264.0" fill="#ffb547" font-size="10" text-anchor="middle">160 m</text>
+<text class="lbl" x="795.0" y="264.0" fill="#ffb547" font-size="10" text-anchor="middle">170 m</text>
 <path d="M888.9,286.0 l6,10 h-12z" fill="#e6edf3"/>
 <text class="lbl" x="888.9" y="312.0" fill="#e6edf3" font-size="10.5" font-weight="700" text-anchor="middle">graft</text>
 <text class="lbl" x="888.9" y="324.0" fill="#ffb547" font-size="10" text-anchor="middle">120 m</text>
@@ -124,5 +125,5 @@
 <text x="585.0" y="414" fill="#8b949e" font-size="10" text-anchor="middle">2021</text>
 <text x="690.0" y="414" fill="#8b949e" font-size="10" text-anchor="middle">2023</text>
 <text x="795.0" y="414" fill="#8b949e" font-size="10" text-anchor="middle">2025</text>
-<text x="852" y="34" fill="#ffb547" font-size="14" font-weight="800" text-anchor="end">D+ 2,310 m</text>
+<text x="852" y="34" fill="#ffb547" font-size="14" font-weight="800" text-anchor="end">D+ 2,320 m</text>
 </g></svg>
