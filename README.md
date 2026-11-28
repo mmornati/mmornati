@@ -77,7 +77,13 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 
 <!-- FEED:START -->
 <pre>
-| * <b>f4af2ef</b> 2026-11-22 (HEAD -&gt; toots, toot) <a href="https://techhub.social/@mmornati/117662438770270606">As a kid I played Activision's "Hacker". Black screen, "LOGON PLEASE"…</a>
+* <b>30ec2b4</b> 2026-11-28 (HEAD -&gt; main, blog) <a href="https://blog.mornati.net/my-heat-pump-heating-curve-tuned-with-data/">My Heat Pump's Heating Curve, Tuned with Data</a>
+|\
+| * <b>8f29e0a</b> 2026-11-28 (toot) <a href="https://techhub.social/@mmornati/117693608645816786">A week ago I shared BREACH, a game to show how easy real attacks have…</a>
+|/
+* <b>219533f</b> 2026-11-28 (blog) <a href="https://blog.mornati.net/breach-one-week-later/">BREACH, One Week Later: Twelve Seasons, Your Own Home, and Forty-Six…</a>
+|\
+| * <b>f4af2ef</b> 2026-11-22 (toot) <a href="https://techhub.social/@mmornati/117662438770270606">As a kid I played Activision's "Hacker". Black screen, "LOGON PLEASE"…</a>
 |/
 * <b>3c05db2</b> 2026-11-22 (blog) <a href="https://blog.mornati.net/breach-a-new-hacking-game/">BREACH: a New Hacking Game, to Learn How Real Attacks Work</a>
 |\
@@ -87,11 +93,6 @@ I am a **Director of Engineering** at **Decathlon Digital**, where I lead teams 
 |\
 | * <b>edf1c31</b> 2026-11-18 (toot) <a href="https://techhub.social/@mmornati/117639502307077216">When you maintain a plugin for a big project, every new release of that…</a>
 |/
-* <b>9901a9c</b> 2026-11-18 (blog) <a href="https://blog.mornati.net/angelia-stop-polling-for-releases-let-them-push-to-your-ci/">Stop Polling for Releases, Let Them Push to Your CI: Angelia, a…</a>
-|\
-| * <b>256dd78</b> 2026-11-15 (toot) <a href="https://techhub.social/@mmornati/117621562969523517">Si vous habitez à Lille et que vous avez HomeAssistant, j'ai fait…</a>
-|/
-* <b>0c7a865</b> 2026-11-14 (blog) <a href="https://blog.mornati.net/one-human-a-board-and-a-team-of-agents/">One Human, a Board and a Team of Agents: How I Build Software Now (and…</a>
 * <i>… older history on <a href="https://blog.mornati.net">blog.mornati.net</a></i>
 </pre>
 <!-- FEED:END -->
